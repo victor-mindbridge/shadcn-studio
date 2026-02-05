@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-20",
-  "type": "registry:component",
   "title": "Button 20",
   "description": "Copy button UI displaying a truncated URL with a rounded \"Copy\" icon for quick copying.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-20.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

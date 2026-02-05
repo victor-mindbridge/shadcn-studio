@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "sonner-12",
-  "type": "registry:component",
   "title": "Sonner 12",
   "description": "A soft-styled destructive error toast notification with subtle red theming for error messages",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/sonner/sonner-12.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

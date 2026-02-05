@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "card-10",
-  "type": "registry:component",
   "title": "Card 10",
   "description": "Tabbed card with integrated tabs component for organized content sections",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/card/card-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

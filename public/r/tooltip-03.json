@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tooltip-03",
-  "type": "registry:component",
   "title": "Tooltip 3",
   "description": "A tooltip without the arrow indicator for clean minimal appearance",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tooltip/tooltip-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

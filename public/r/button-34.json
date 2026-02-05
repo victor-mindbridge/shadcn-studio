@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-34",
-  "type": "registry:component",
   "title": "Button 34",
   "description": "Theme toggle button switching between sun and moon icons with colored styling",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-34.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

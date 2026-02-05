@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-01",
-  "type": "registry:component",
   "title": "Alert 1",
   "description": "Basic alert with circle alert icon and simple title message.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

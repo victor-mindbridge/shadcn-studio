@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "data-table-03",
-  "type": "registry:component",
   "title": "Data Table 3",
   "description": "Payment records table with search filter, column visibility toggle, and refresh functionality",
   "dependencies": [
@@ -22,5 +21,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/data-table/data-table-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

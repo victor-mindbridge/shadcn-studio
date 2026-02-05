@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "avatar-01",
-  "type": "registry:component",
   "title": "Avatar 1",
   "description": "Basic avatar with profile image and fallback initials.",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/avatar/avatar-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

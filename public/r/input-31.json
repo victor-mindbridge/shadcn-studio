@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-31",
-  "type": "registry:component",
   "title": "Input 31",
   "description": "An email input field with an inline send button positioned at the end",
   "dependencies": [
@@ -19,5 +18,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-31.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

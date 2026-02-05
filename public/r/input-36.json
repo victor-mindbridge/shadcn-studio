@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-36",
-  "type": "registry:component",
   "title": "Input 36",
   "description": "Input field with clear button to instantly reset the field value",
   "dependencies": [
@@ -19,5 +18,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-36.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

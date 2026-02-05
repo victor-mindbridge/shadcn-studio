@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "collapsible-05",
-  "type": "registry:component",
   "title": "Collapsible 5",
   "description": "Filter panel with price range inputs, rating checkboxes and brand selection",
   "dependencies": [
@@ -22,5 +21,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/collapsible/collapsible-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

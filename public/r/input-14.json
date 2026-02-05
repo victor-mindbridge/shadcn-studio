@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-14",
-  "type": "registry:component",
   "title": "Input 14",
   "description": "A username input field with a user icon positioned at the start",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-14.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

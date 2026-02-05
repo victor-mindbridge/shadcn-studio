@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "table-04",
-  "type": "registry:component",
   "title": "Table 4",
   "description": "A table with vertical lines between columns for clear data separation",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/table/table-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

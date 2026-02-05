@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "switch-17",
-  "type": "registry:component",
   "title": "Switch 17",
   "description": "A switch card with GitHub icon for repository connection toggle functionality",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/switch/switch-17.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

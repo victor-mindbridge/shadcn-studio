@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "calendar-14",
-  "type": "registry:component",
   "title": "Calendar 14",
   "description": "Custom styled range calendar with sky blue theme for date range selection",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/calendar/calendar-14.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

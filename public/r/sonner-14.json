@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "sonner-14",
-  "type": "registry:component",
   "title": "Sonner 14",
   "description": "An outline-styled success toast notification with green border theming for positive feedback",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/sonner/sonner-14.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

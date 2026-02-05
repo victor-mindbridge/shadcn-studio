@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "checkbox-13",
-  "type": "registry:component",
   "title": "Checkbox 13",
   "description": "Card-style checkboxes with border highlighting and description text",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/checkbox/checkbox-13.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

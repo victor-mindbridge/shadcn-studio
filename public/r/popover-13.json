@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "popover-13",
-  "type": "registry:component",
   "title": "Popover 13",
   "description": "A promotional popover with QR code and coupon code with copy functionality with slide in from left animation",
   "dependencies": [
@@ -24,5 +23,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

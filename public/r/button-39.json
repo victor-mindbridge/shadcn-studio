@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-39",
-  "type": "registry:component",
   "title": "Button 39",
   "description": "Animated button with ripple effect on click",
   "dependencies": [
@@ -28,5 +27,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

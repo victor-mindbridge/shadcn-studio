@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dialog-10",
-  "type": "registry:component",
   "title": "Dialog 10",
   "description": "Referral program dialog with avatar display and email sharing functionality",
   "registryDependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dialog/dialog-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

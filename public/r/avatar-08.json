@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "avatar-08",
-  "type": "registry:component",
   "title": "Avatar 8",
   "description": "Status avatar with online indicator showing green status dot.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/avatar/avatar-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

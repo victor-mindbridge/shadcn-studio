@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "textarea-13",
-  "type": "registry:component",
   "title": "Textarea 13",
   "description": "A textarea with overlapping label for modern form design",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/textarea/textarea-13.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

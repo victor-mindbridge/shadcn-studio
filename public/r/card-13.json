@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "card-13",
-  "type": "registry:component",
   "title": "Card 13",
   "description": "Testimonial card with user profile, star rating and highlighted text review",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/card/card-13.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

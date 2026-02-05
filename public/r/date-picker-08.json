@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "date-picker-08",
-  "type": "registry:component",
   "title": "Date Picker 8",
   "description": "Simple time input field with step control for precise time selection",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/date-picker/date-picker-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

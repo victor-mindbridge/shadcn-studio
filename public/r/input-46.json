@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-46",
-  "type": "registry:component",
   "title": "Input 46",
   "description": "Password input field with strength meter and requirements validation checker",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-46.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

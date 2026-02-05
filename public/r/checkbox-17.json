@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "checkbox-17",
-  "type": "registry:component",
   "title": "Checkbox 17",
   "description": "Smooth animated checkbox with motion transitions and visual feedback",
   "dependencies": [
@@ -28,5 +27,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

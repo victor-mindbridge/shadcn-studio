@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "calendar-04",
-  "type": "registry:component",
   "title": "Calendar 4",
   "description": "Multi-month calendar with date range selection across multiple months",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/calendar/calendar-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

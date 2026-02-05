@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-14",
-  "type": "registry:component",
   "title": "Button 14",
   "description": "Outline button with dashed border for download action",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-14.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

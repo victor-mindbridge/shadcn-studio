@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dropdown-menu-12",
-  "type": "registry:component",
   "title": "Dropdown Menu 12",
   "description": "User profile menu dropdown with icons for profile, settings, billing, and FAQ",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dropdown-menu/dropdown-menu-12.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

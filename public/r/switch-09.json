@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "switch-09",
-  "type": "registry:component",
   "title": "Switch 9",
   "description": "A dual-label switch with clickable Yes/No labels that toggle the switch state",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/switch/switch-09.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

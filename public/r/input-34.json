@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-34",
-  "type": "registry:component",
   "title": "Input 34",
   "description": "Input field with character limit counter showing current count out of maximum allowed",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-34.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

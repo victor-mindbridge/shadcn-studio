@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-09",
-  "type": "registry:component",
   "title": "Select 9",
   "description": "A native select dropdown with inset label design and custom styling",
   "dependencies": [
@@ -24,5 +23,6 @@
       "type": "registry:ui",
       "target": "components/ui/select-native.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "breadcrumb-07",
-  "type": "registry:component",
   "title": "Breadcrumb 7",
   "description": "Interactive breadcrumb with folder state icons and dropdown functionality",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/breadcrumb/breadcrumb-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

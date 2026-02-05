@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "calendar-23",
-  "type": "registry:component",
   "title": "Calendar 23",
   "description": "Range calendar with preset date range shortcuts (Last week, month, year, etc.)",
   "registryDependencies": [
@@ -16,5 +15,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/calendar/calendar-23.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

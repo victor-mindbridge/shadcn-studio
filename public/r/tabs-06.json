@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tabs-06",
-  "type": "registry:component",
   "title": "Tabs 6",
   "description": "Tabs with badge count indicators showing numerical values for each tab",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tabs/tabs-06.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

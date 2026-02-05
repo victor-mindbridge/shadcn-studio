@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-03",
-  "type": "registry:component",
   "title": "Alert 3",
   "description": "Closable alert with dismiss functionality using X icon and state management.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

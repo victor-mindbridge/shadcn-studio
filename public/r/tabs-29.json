@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tabs-29",
-  "type": "registry:component",
   "title": "Tabs 29",
   "description": "Animated underline tabs with dynamic underline position tracking using framer motion",
   "dependencies": [
@@ -20,5 +19,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

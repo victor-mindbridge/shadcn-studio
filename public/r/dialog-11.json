@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dialog-11",
-  "type": "registry:component",
   "title": "Dialog 11",
   "description": "Rating feedback dialog with emoji radio buttons and text area for comments",
   "registryDependencies": [
@@ -19,5 +18,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dialog/dialog-11.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

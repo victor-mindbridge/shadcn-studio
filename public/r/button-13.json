@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-13",
-  "type": "registry:component",
   "title": "Button 13",
   "description": "Outline button with sky blue theme for duplicate action",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-13.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

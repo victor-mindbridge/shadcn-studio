@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "card-01",
-  "type": "registry:component",
   "title": "Card 1",
   "description": "Login form card with email and password inputs",
   "registryDependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/card/card-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

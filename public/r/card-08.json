@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "card-08",
-  "type": "registry:component",
   "title": "Card 8",
   "description": "Soft background card with subtle primary color theme",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/card/card-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

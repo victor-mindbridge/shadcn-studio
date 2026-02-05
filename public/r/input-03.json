@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-03",
-  "type": "registry:component",
   "title": "Input 3",
   "description": "A required email input field with a red asterisk indicator and validation",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

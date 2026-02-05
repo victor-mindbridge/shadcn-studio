@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "avatar-21",
-  "type": "registry:component",
   "title": "Avatar 21",
   "description": "Avatar group with popularity indicator styling and text showcasing community trust.",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/avatar/avatar-21.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dialog-06",
-  "type": "registry:component",
   "title": "Dialog 6",
   "description": "Scrollable dialog with sticky footer for persistent action buttons",
   "dependencies": [
@@ -19,5 +18,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dialog/dialog-06.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

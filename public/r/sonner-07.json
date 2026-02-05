@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "sonner-07",
-  "type": "registry:component",
   "title": "Sonner 7",
   "description": "A promise-based toast notification with loading, success, and error states",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/sonner/sonner-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

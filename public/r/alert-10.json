@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-10",
-  "type": "registry:component",
   "title": "Alert 10",
   "description": "Gradient background alert with email verification message and gradient styling.",
   "dependencies": [
@@ -19,5 +18,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

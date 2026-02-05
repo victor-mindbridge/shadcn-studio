@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tabs-28",
-  "type": "registry:component",
   "title": "Tabs 28",
   "description": "Expandable tabs with icons and collapsible content using framer motion animations",
   "dependencies": [
@@ -22,5 +21,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

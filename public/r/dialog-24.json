@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dialog-24",
-  "type": "registry:component",
   "title": "Dialog 24",
   "description": "Profile edit dialog with slide-up animation from bottom",
   "registryDependencies": [
@@ -20,5 +19,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

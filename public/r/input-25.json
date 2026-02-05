@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-25",
-  "type": "registry:component",
   "title": "Input 25",
   "description": "An email input field with an inset label positioned above the input area",
   "files": [
@@ -11,5 +10,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-25.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

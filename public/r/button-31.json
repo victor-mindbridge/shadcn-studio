@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-31",
-  "type": "registry:component",
   "title": "Button 31",
   "description": "Icon-only button with bookmark icon and screen reader accessibility",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-31.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tabs-23",
-  "type": "registry:component",
   "title": "Tabs 23",
   "description": "Vertical tabs with badge indicators in left navigation layout",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tabs/tabs-23.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

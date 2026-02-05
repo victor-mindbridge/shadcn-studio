@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-10",
-  "type": "registry:component",
   "title": "Button 10",
   "description": "A destructive button with gradient background for delete actions",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "table-14",
-  "type": "registry:component",
   "title": "Table 14",
   "description": "A table with integrated pagination controls for navigating through large datasets",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/table/table-14.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

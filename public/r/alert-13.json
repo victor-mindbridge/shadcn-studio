@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-13",
-  "type": "registry:component",
   "title": "Alert 13",
   "description": "displaying a minimal \"New message!\" notification with an attention icon and an actionable \"Open\" button",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-13.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

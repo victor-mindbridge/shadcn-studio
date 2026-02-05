@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "accordion-06",
-  "type": "registry:component",
   "title": "Accordion 6",
   "description": "Icon and expand indicator accordion with category icons and plus icon for expand/collapse.",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/accordion/accordion-06.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

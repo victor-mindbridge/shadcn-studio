@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "pagination-14",
-  "type": "registry:component",
   "title": "Pagination 14",
   "description": "A pagination component with page size selector dropdown for customizable results per page",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/pagination/pagination-14.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

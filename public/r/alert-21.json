@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-21",
-  "type": "registry:component",
   "title": "Alert 21",
   "description": "Soft primary alert with subtle background and text styling for secondary messages.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-21.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "checkbox-15",
-  "type": "registry:component",
   "title": "Checkbox 15",
   "description": "Tree checkbox with parent-child relationship and indeterminate state",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/checkbox/checkbox-15.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

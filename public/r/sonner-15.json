@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "sonner-15",
-  "type": "registry:component",
   "title": "Sonner 15",
   "description": "An outline-styled warning toast notification with amber border theming for caution messages",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/sonner/sonner-15.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

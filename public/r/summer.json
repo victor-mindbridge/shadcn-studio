@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "summer",
-  "type": "registry:style",
   "cssVars": {
     "theme": {
       "font-sans": "Nunito, Segoe UI, Tahoma, Geneva, Verdana, sans-serif",
@@ -127,5 +126,6 @@
         "letter-spacing": "var(--tracking-normal)"
       }
     }
-  }
+  },
+  "type": "registry:style"
 }

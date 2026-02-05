@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "pricing-component-01",
-  "type": "registry:block",
   "title": "Pricing 1",
   "description": "Interactive pricing cards with monthly/annual toggle switch and plan comparison features",
   "registryDependencies": [
@@ -27,5 +26,6 @@
   "meta": {
     "category": "marketing-ui",
     "section": "pricing-component"
-  }
+  },
+  "type": "registry:block"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dropdown-menu-11",
-  "type": "registry:component",
   "title": "Dropdown Menu 11",
   "description": "Task priority selector dropdown with icons and priority levels",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dropdown-menu/dropdown-menu-11.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

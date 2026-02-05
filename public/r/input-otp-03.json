@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-otp-03",
-  "type": "registry:component",
   "title": "Input OTP 3",
   "description": "A 4-digit OTP input field with resend functionality and helper text",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input-otp/input-otp-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

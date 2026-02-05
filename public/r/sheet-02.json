@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "sheet-02",
-  "type": "registry:component",
   "title": "Sheet 2",
   "description": "A sheet component demonstrating different slide directions (top, right, bottom, left)",
   "registryDependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/sheet/sheet-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

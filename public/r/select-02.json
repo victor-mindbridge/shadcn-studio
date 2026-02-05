@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-02",
-  "type": "registry:component",
   "title": "Select 2",
   "description": "A native select dropdown with placeholder text for user guidance",
   "dependencies": [
@@ -24,5 +23,6 @@
       "type": "registry:ui",
       "target": "components/ui/select-native.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

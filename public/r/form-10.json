@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "form-10",
-  "type": "registry:component",
   "title": "Form 10",
   "description": "Comprehensive form with multiple input types in card layout for complex data entry",
   "dependencies": [
@@ -25,5 +24,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/form/form-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

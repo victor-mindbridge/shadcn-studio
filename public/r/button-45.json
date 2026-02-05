@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-45",
-  "type": "registry:component",
   "title": "Button 45",
   "description": "Button with magnetic effect that follows mouse movement",
   "dependencies": [
@@ -28,5 +27,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

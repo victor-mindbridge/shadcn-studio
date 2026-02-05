@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "data-table-04",
-  "type": "registry:component",
   "title": "Data Table 4",
   "description": "Product inventory table with images, badges, and advanced filtering by multiple attributes",
   "dependencies": [
@@ -25,5 +24,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/data-table/data-table-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

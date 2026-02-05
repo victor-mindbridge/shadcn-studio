@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-group-14",
-  "type": "registry:component",
   "title": "Button Group 14",
   "description": "Like/dislike button group with expandable hover reveal animation",
   "dependencies": [
@@ -20,5 +19,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

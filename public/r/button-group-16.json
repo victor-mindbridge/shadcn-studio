@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-group-16",
-  "type": "registry:component",
   "title": "Button Group 16",
   "description": "File action button group with animated shine/shimmer hover effect",
   "registryDependencies": [
@@ -17,5 +16,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

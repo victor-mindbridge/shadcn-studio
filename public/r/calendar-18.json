@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "calendar-18",
-  "type": "registry:component",
   "title": "Calendar 18",
   "description": "Calendar with \"Today\" quick action button for fast current date selection",
   "registryDependencies": [
@@ -16,5 +15,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/calendar/calendar-18.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

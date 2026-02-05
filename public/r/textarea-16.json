@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "textarea-16",
-  "type": "registry:component",
   "title": "Textarea 16",
   "description": "A textarea with separate submit button below for form submission",
   "registryDependencies": [
@@ -16,5 +15,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/textarea/textarea-16.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

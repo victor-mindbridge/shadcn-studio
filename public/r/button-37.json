@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-37",
-  "type": "registry:component",
   "title": "Button 37",
   "description": "Success icon button with soft green background and check icon",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-37.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

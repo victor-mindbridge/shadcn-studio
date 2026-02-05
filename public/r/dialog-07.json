@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dialog-07",
-  "type": "registry:component",
   "title": "Dialog 7",
   "description": "Full-screen dialog taking up the entire viewport for immersive content",
   "dependencies": [
@@ -19,5 +18,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dialog/dialog-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

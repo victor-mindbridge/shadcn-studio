@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dialog-14",
-  "type": "registry:component",
   "title": "Dialog 14",
   "description": "Sign in dialog with gradient background and social login options",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dialog/dialog-14.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

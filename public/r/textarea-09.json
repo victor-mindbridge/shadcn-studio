@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "textarea-09",
-  "type": "registry:component",
   "title": "Textarea 9",
   "description": "A filled textarea with muted background and transparent border styling",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/textarea/textarea-09.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

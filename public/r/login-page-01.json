@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "login-page-01",
-  "type": "registry:block",
   "title": "Login 1",
   "description": "Centered card layout with logo header, quick login buttons, and full authentication form featuring email/password inputs, social login options, and remember me functionality",
   "dependencies": [
@@ -49,7 +48,7 @@
     },
     {
       "path": "src/components/layout/logo.tsx",
-      "content": "// SVG Imports\nimport LogoSvg from '@/assets/svg/logo'\n\n// Util Imports\nimport { cn } from '@/lib/utils'\n\nconst Logo = ({ className }: { className?: string }) => {\n  return (\n    <div className={cn('flex items-center gap-2.5', className)}>\n      <LogoSvg className='size-8.5' />\n      <span className='text-xl font-semibold'>shadcn/studio</span>\n    </div>\n  )\n}\n\nexport default Logo\n",
+      "content": "// SVG Imports\nimport LogoSvg from '@/assets/svg/Logo'\n\n// Util Imports\nimport { cn } from '@/lib/utils'\n\nconst Logo = ({ className }: { className?: string }) => {\n  return (\n    <div className={cn('flex items-center gap-2.5', className)}>\n      <LogoSvg className='size-8.5' />\n      <span className='text-xl font-semibold'>shadcn/studio</span>\n    </div>\n  )\n}\n\nexport default Logo\n",
       "type": "registry:component",
       "target": "components/shadcn-studio/logo.tsx"
     }
@@ -57,5 +56,6 @@
   "meta": {
     "category": "marketing-ui",
     "section": "login-page"
-  }
+  },
+  "type": "registry:block"
 }

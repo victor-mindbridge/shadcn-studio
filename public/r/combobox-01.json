@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "combobox-01",
-  "type": "registry:component",
   "title": "Combobox 1",
   "description": "Basic combobox with framework selection and searchable dropdown",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/combobox/combobox-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

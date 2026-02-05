@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-otp-10",
-  "type": "registry:component",
   "title": "Input OTP 10",
   "description": "A 6-digit OTP input field with custom dot separator and grouped layout",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input-otp/input-otp-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

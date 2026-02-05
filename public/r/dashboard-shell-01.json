@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dashboard-shell-01",
-  "type": "registry:block",
   "title": "Dashboard Shell 1",
   "description": "Comprehensive dashboard layout with sidebar navigation, breadcrumb header, sales metrics charts, statistics cards, transaction tables, and widget components for business analytics and reporting",
   "dependencies": [
@@ -82,5 +81,6 @@
   "meta": {
     "category": "dashboard-and-application",
     "section": "dashboard-shell"
-  }
+  },
+  "type": "registry:block"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "claude",
-  "type": "registry:style",
   "cssVars": {
     "theme": {
       "font-sans": "'Geist', 'Geist Fallback', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'",
@@ -127,5 +126,6 @@
         "letter-spacing": "var(--tracking-normal)"
       }
     }
-  }
+  },
+  "type": "registry:style"
 }

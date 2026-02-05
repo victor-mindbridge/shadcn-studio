@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "date-picker-01",
-  "type": "registry:component",
   "title": "Date Picker 1",
   "description": "Basic single date picker with popover calendar display",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/date-picker/date-picker-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-otp-01",
-  "type": "registry:component",
   "title": "Input OTP 1",
   "description": "A 4-digit numeric OTP input field with individual slots for each digit",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input-otp/input-otp-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "sheet-04",
-  "type": "registry:component",
   "title": "Sheet 4",
   "description": "A sheet component with scrollable content for terms and conditions",
   "registryDependencies": [
@@ -16,5 +15,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/sheet/sheet-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

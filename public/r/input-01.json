@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-01",
-  "type": "registry:component",
   "title": "Input 1",
   "description": "A basic email input field with placeholder text",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

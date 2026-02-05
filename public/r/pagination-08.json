@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "pagination-08",
-  "type": "registry:component",
   "title": "Pagination 8",
   "description": "A pagination component with ellipsis and tooltip showing hidden page count",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/pagination/pagination-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dialog-13",
-  "type": "registry:component",
   "title": "Dialog 13",
   "description": "Sign up dialog with gradient background and terms acceptance checkbox",
   "registryDependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dialog/dialog-13.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

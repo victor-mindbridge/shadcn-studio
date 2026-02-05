@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "table-10",
-  "type": "registry:component",
   "title": "Table 10",
   "description": "A table with sticky header that remains visible during vertical scrolling",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/table/table-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

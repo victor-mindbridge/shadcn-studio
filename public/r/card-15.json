@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "card-15",
-  "type": "registry:component",
   "title": "Card 15",
   "description": "Connected card group with three image showcase cards arranged side by side",
   "registryDependencies": [
@@ -18,5 +17,6 @@
   ],
   "meta": {
     "className": "col-span-full border-r-0"
-  }
+  },
+  "type": "registry:component"
 }

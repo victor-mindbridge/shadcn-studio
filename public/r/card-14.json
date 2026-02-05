@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "card-14",
-  "type": "registry:component",
   "title": "Card 14",
   "description": "Dismissible action card with close button and call-to-action content",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/card/card-14.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

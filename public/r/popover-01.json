@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "popover-01",
-  "type": "registry:component",
   "title": "Popover 1",
   "description": "A ratings popover displaying star ratings with progress bars and review statistics",
   "dependencies": [
@@ -21,5 +20,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/popover/popover-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

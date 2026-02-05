@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "accordion-08",
-  "type": "registry:component",
   "title": "Accordion 8",
   "description": "Enhanced icon accordion with circular icon containers and subtitle descriptions for each item.",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/accordion/accordion-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

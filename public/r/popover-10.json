@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "popover-10",
-  "type": "registry:component",
   "title": "Popover 10",
   "description": "A user search popover with debounced input, loading states, and avatar display",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/popover/popover-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

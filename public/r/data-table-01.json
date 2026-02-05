@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "data-table-01",
-  "type": "registry:component",
   "title": "Data Table 1",
   "description": "Basic data table with records and row selection functionality",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/data-table/data-table-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

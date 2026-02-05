@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tabs-08",
-  "type": "registry:component",
   "title": "Tabs 8",
   "description": "Simple justified tabs with equal width distribution across the container",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tabs/tabs-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

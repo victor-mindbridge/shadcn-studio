@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "combobox-12",
-  "type": "registry:component",
   "title": "Combobox 12",
   "description": "Multi-select combobox with a count badge showing the number of selected frameworks.",
   "dependencies": [
@@ -21,5 +20,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/combobox/combobox-12.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

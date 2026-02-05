@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "table-16",
-  "type": "registry:component",
   "title": "Table 16",
   "description": "A comprehensive product table with avatars, checkboxes, buttons, and action controls",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/table/table-16.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "avatar-07",
-  "type": "registry:component",
   "title": "Avatar 7",
   "description": "Status avatar with busy indicator showing red status dot.",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/avatar/avatar-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

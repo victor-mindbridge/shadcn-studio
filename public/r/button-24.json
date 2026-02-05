@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-24",
-  "type": "registry:component",
   "title": "Button 24",
   "description": "Action buttons styled for “Reject” and “Approve” with colored shield icons to indicate decision-based actions",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-24.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "checkbox-19",
-  "type": "registry:component",
   "title": "Checkbox 19",
   "description": "Checkbox with confetti animation effect when checked",
   "dependencies": [
@@ -21,5 +20,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

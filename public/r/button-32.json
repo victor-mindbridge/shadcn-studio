@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-32",
-  "type": "registry:component",
   "title": "Button 32",
   "description": "Circular icon button with plus icon and tooltip for enhanced UX",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-32.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

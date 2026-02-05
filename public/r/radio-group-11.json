@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "radio-group-11",
-  "type": "registry:component",
   "title": "Radio Group 11",
   "description": "A card-style radio group with detailed descriptions and pricing",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/radio-group/radio-group-11.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

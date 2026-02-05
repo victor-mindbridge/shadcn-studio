@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-group-12",
-  "type": "registry:component",
   "title": "Button Group 12",
   "description": "Ghost variant button group for navigation between settings, dashboard, and analytics",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button-group/button-group-12.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

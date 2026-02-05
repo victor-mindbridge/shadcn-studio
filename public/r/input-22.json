@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-22",
-  "type": "registry:component",
   "title": "Input 22",
   "description": "An email input field with a filled muted background style and no border",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-22.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

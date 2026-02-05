@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "textarea-21",
-  "type": "registry:component",
   "title": "Textarea 21",
   "description": "A disabled textarea in non-interactive state for form display",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/textarea/textarea-21.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

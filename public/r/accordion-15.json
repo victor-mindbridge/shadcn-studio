@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "accordion-15",
-  "type": "registry:component",
   "title": "Accordion 15",
   "description": "Multi-level accordion with nested collapsible sections for hierarchical FAQ organization.",
   "dependencies": [
@@ -19,5 +18,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/accordion/accordion-15.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

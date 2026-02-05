@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "app-integration-01",
-  "type": "registry:block",
   "title": "App Integration 1",
   "description": "Two-column layout with integration cards featuring tool logos, names, descriptions, and call-to-action for conversion-focused app showcases",
   "registryDependencies": [
@@ -25,5 +24,6 @@
   "meta": {
     "category": "marketing-ui",
     "section": "app-integration"
-  }
+  },
+  "type": "registry:block"
 }

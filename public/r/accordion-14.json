@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "accordion-14",
-  "type": "registry:component",
   "title": "Accordion 14",
   "description": "Filled header accordion with accent background triggers and separated content sections.",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/accordion/accordion-14.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

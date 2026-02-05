@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "textarea-05",
-  "type": "registry:component",
   "title": "Textarea 5",
   "description": "An invalid textarea with error styling and validation message",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/textarea/textarea-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

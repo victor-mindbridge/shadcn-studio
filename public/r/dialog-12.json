@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dialog-12",
-  "type": "registry:component",
   "title": "Dialog 12",
   "description": "OTP verification dialog with input-otp component and validation feedback",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dialog/dialog-12.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

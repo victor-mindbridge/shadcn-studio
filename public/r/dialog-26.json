@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dialog-26",
-  "type": "registry:component",
   "title": "Dialog 26",
   "description": "Profile edit dialog with zoom in animation from center of the screen",
   "registryDependencies": [
@@ -20,5 +19,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

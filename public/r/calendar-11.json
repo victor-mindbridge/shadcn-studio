@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "calendar-11",
-  "type": "registry:component",
   "title": "Calendar 11",
   "description": "Event calendar with integrated event list display and add event functionality",
   "dependencies": [
@@ -19,5 +18,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/calendar/calendar-11.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

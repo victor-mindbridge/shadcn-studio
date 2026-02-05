@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "widget-component-02",
-  "type": "registry:block",
   "title": "Widget 2",
   "description": "Product insights widget with advanced analytics, chart visualization, and comprehensive product data overview",
   "dependencies": [
@@ -31,5 +30,6 @@
   "meta": {
     "category": "dashboard-and-application",
     "section": "widgets-component"
-  }
+  },
+  "type": "registry:block"
 }

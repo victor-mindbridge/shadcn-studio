@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "switch-10",
-  "type": "registry:component",
   "title": "Switch 10",
   "description": "A switch with icon label that toggles between sun and moon icons for theme switching",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/switch/switch-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

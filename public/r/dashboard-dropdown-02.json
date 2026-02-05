@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dashboard-dropdown-02",
-  "type": "registry:block",
   "title": "Dashboard Dropdown 2",
   "description": "A user profile dropdown with avatar display, user information, profile settings, and account actions for user management.",
   "dependencies": [
@@ -28,5 +27,6 @@
   "meta": {
     "category": "dashboard-and-application",
     "section": "dashboard-dropdown"
-  }
+  },
+  "type": "registry:block"
 }

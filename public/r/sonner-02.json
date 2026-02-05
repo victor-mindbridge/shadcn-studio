@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "sonner-02",
-  "type": "registry:component",
   "title": "Sonner 2",
   "description": "A toast notification with title and description for detailed information",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/sonner/sonner-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

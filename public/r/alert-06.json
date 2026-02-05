@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-06",
-  "type": "registry:component",
   "title": "Alert 6",
   "description": "Focused icon alert with avatar-wrapped warning icon and destructive background styling.",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-06.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

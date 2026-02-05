@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-45",
-  "type": "registry:component",
   "title": "Input 45",
   "description": "Number field with vertically stacked chevron buttons for increment/decrement using React Aria",
   "dependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-45.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

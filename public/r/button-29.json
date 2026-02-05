@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-29",
-  "type": "registry:component",
   "title": "Button 29",
   "description": "Social media icon buttons for Google, X/Twitter, Facebook, and GitHub",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-29.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

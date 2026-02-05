@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "data-table-08",
-  "type": "registry:component",
   "title": "Data Table 8",
   "description": "Drag-and-drop data table with sortable rows and reordering functionality",
   "dependencies": [
@@ -23,5 +22,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/data-table/data-table-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "switch-11",
-  "type": "registry:component",
   "title": "Switch 11",
   "description": "A dual-icon switch with clickable sun and moon icons for theme mode switching",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/switch/switch-11.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tabs-26",
-  "type": "registry:component",
   "title": "Tabs 26",
   "description": "Custom tabs with underline styling using bottom border and no background",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tabs/tabs-26.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

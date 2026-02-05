@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-41",
-  "type": "registry:component",
   "title": "Button 41",
   "description": "Button with shine hover effect using gradient animation",
   "registryDependencies": [
@@ -17,5 +16,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

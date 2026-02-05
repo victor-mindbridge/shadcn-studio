@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "checkbox-01",
-  "type": "registry:component",
   "title": "Checkbox 1",
   "description": "Basic checkbox with label for simple true/false selection",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/checkbox/checkbox-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

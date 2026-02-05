@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-02",
-  "type": "registry:component",
   "title": "Alert 2",
   "description": "Avatar-enhanced alert with user profile image, and alert icon.",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

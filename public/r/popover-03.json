@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "popover-03",
-  "type": "registry:component",
   "title": "Popover 3",
   "description": "A pricing popover displaying plan details with features and pricing information",
   "dependencies": [
@@ -19,5 +18,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/popover/popover-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

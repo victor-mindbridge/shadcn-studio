@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-17",
-  "type": "registry:component",
   "title": "Alert 17",
   "description": "Standard alert with both title and description text providing detailed information.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-17.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

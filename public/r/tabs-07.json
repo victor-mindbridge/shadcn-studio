@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tabs-07",
-  "type": "registry:component",
   "title": "Tabs 7",
   "description": "Icon-only tabs with tooltip labels for compact navigation",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tabs/tabs-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

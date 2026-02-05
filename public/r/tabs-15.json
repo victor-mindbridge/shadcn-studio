@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tabs-15",
-  "type": "registry:component",
   "title": "Tabs 15",
   "description": "Vertical tabs layout with left-side navigation structure",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tabs/tabs-15.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

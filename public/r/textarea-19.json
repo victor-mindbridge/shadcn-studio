@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "textarea-19",
-  "type": "registry:component",
   "title": "Textarea 19",
   "description": "A textarea with character count display and remaining characters indicator",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/textarea/textarea-19.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

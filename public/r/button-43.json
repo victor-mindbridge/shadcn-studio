@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-43",
-  "type": "registry:component",
   "title": "Button 43",
   "description": "Button with shimmer effect animation across the surface",
   "dependencies": [
@@ -26,5 +25,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

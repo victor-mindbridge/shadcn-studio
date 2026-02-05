@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "error-page-01",
-  "type": "registry:block",
   "title": "Error 1",
   "description": "Two-column error page layout with left-side text content (Whoops heading, error message, description) and right-side black background featuring centered astronaut illustration",
   "registryDependencies": [
@@ -24,5 +23,6 @@
   "meta": {
     "category": "marketing-ui",
     "section": "error-page"
-  }
+  },
+  "type": "registry:block"
 }

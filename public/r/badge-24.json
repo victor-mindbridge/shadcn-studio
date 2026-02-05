@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "badge-24",
-  "type": "registry:component",
   "title": "Badge 24",
   "description": "Online status indicator badge with green dot over avatar",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/badge/badge-24.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

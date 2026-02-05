@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tooltip-07",
-  "type": "registry:component",
   "title": "Tooltip 7",
   "description": "A rich content tooltip with accessibility information, icon and formatted text",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tooltip/tooltip-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

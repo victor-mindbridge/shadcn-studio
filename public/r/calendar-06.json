@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "calendar-06",
-  "type": "registry:component",
   "title": "Calendar 6",
   "description": "Calendar with disabled dates before a specific date for restricted selection",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/calendar/calendar-06.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

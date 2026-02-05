@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "accordion-11",
-  "type": "registry:component",
   "title": "Accordion 11",
   "description": "Tab-style accordion with accent background highlighting for expanded items.",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/accordion/accordion-11.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

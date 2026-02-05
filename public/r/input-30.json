@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-30",
-  "type": "registry:component",
   "title": "Input 30",
   "description": "An email input field paired with a subscribe button for newsletter signups",
   "registryDependencies": [
@@ -16,5 +15,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-30.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

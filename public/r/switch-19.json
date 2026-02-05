@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "switch-19",
-  "type": "registry:component",
   "title": "Switch 19",
   "description": "Animated motion switches in multiple sizes with smooth transition effects",
   "dependencies": [
@@ -28,5 +27,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tooltip-16",
-  "type": "registry:component",
   "title": "Tooltip 16",
   "description": "An animated tooltip with stacked avatars and hover effects using motion-tooltip component",
   "dependencies": [
@@ -27,5 +26,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

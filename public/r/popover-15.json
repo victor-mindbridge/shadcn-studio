@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "popover-15",
-  "type": "registry:component",
   "title": "Popover 15",
   "description": "A user profile popover with avatar, bio, and social statistics display with zoom-in animation",
   "registryDependencies": [
@@ -19,5 +18,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

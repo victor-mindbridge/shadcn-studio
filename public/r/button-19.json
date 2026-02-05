@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-19",
-  "type": "registry:component",
   "title": "Button 19",
   "description": "Publish button with circular icon badge and rounded outline styling",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-19.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-04",
-  "type": "registry:component",
   "title": "Alert 4",
   "description": "Interactive alert with link button featuring arrow icon and styled border/text colors.",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

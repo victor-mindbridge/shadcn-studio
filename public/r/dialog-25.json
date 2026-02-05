@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dialog-25",
-  "type": "registry:component",
   "title": "Dialog 25",
   "description": "Profile edit dialog with slide-right animation from left side of the screen",
   "registryDependencies": [
@@ -20,5 +19,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

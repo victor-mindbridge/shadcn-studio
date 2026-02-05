@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "avatar-19",
-  "type": "registry:component",
   "title": "Avatar 19",
   "description": "Avatar group with dropdown menu showing additional users and actions.",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/avatar/avatar-19.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dialog-05",
-  "type": "registry:component",
   "title": "Dialog 5",
   "description": "Scrollable dialog with sticky header for fixed navigation while scrolling content",
   "dependencies": [
@@ -19,5 +18,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dialog/dialog-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

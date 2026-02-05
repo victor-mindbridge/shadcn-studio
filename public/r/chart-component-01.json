@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "chart-component-01",
-  "type": "registry:block",
   "title": "Chart 1",
   "description": "Comprehensive sales metrics dashboard featuring company profile, key performance indicators (sales trend, discounts, profit, orders), pie chart for revenue goals, and bar chart for sales plan completion with cohort analysis tools.",
   "dependencies": [
@@ -29,5 +28,6 @@
   "meta": {
     "category": "dashboard-and-application",
     "section": "charts-component"
-  }
+  },
+  "type": "registry:block"
 }

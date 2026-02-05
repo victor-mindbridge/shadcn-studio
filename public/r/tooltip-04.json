@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tooltip-04",
-  "type": "registry:component",
   "title": "Tooltip 4",
   "description": "An error-styled tooltip with destructive color scheme for warnings",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tooltip/tooltip-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "form-08",
-  "type": "registry:component",
   "title": "Form 8",
   "description": "Form with command popover for searchable command selection",
   "dependencies": [
@@ -23,5 +22,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/form/form-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "avatar-16",
-  "type": "registry:component",
   "title": "Avatar 16",
   "description": "Avatar group with tooltip hover effects and elevation animation.",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/avatar/avatar-16.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

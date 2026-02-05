@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-15",
-  "type": "registry:component",
   "title": "Alert 15",
   "description": "Pure destructive alert using built-in destructive variant with error styling.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-15.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

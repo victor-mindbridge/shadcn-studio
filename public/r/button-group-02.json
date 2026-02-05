@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-group-02",
-  "type": "registry:component",
   "title": "Button Group 2",
   "description": "Interactive like button group with toggle state and dynamic count",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button-group/button-group-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

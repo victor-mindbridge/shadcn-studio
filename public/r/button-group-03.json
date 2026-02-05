@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-group-03",
-  "type": "registry:component",
   "title": "Button Group 3",
   "description": "Toolbar button group with tooltips for design tools and actions",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button-group/button-group-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

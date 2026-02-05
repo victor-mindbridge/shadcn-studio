@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-37",
-  "type": "registry:component",
   "title": "Select 37",
   "description": "An animated select dropdown with slide-in from bottom transition effect",
   "registryDependencies": [
@@ -18,5 +17,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

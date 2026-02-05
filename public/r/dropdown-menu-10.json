@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dropdown-menu-10",
-  "type": "registry:component",
   "title": "Dropdown Menu 10",
   "description": "End-aligned dropdown menu with browser actions and keyboard shortcuts",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dropdown-menu/dropdown-menu-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

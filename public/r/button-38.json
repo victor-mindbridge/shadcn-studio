@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-38",
-  "type": "registry:component",
   "title": "Button 38",
   "description": "Notification icon button with animated blue dot indicator",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-38.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

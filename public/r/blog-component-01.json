@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "blog-component-01",
-  "type": "registry:block",
   "title": "Blog 1",
   "description": "Three-column blog grid with featured images, titles, descriptions, and read more buttons for journey and destination content",
   "dependencies": [
@@ -28,5 +27,6 @@
   "meta": {
     "category": "marketing-ui",
     "section": "blog-component"
-  }
+  },
+  "type": "registry:block"
 }

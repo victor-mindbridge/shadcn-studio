@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "radio-group-07",
-  "type": "registry:component",
   "title": "Radio Group 7",
   "description": "A radio group with descriptions for detailed plan selection options",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/radio-group/radio-group-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

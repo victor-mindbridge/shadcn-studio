@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "faq-component-01",
-  "type": "registry:block",
   "title": "FAQ 1",
   "description": "Simple accordion-style FAQ section with collapsible questions and answers using shadcn/ui accordion component, featuring a clean header and single-column layout for basic Q&A display",
   "registryDependencies": [
@@ -24,5 +23,6 @@
   "meta": {
     "category": "marketing-ui",
     "section": "faq-component"
-  }
+  },
+  "type": "registry:block"
 }

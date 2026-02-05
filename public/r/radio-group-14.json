@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "radio-group-14",
-  "type": "registry:component",
   "title": "Radio Group 14",
   "description": "An animated radio group with motion effects for notification preferences",
   "dependencies": [
@@ -29,5 +28,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

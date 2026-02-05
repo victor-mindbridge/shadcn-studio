@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-28",
-  "type": "registry:component",
   "title": "Input 28",
   "description": "A URL input field with a protocol selector dropdown at the start",
   "registryDependencies": [
@@ -16,5 +15,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-28.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

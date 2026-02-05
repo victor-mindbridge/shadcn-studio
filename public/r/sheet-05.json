@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "sheet-05",
-  "type": "registry:component",
   "title": "Sheet 5",
   "description": "A sheet component with form validation and structured user registration",
   "dependencies": [
@@ -22,5 +21,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/sheet/sheet-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-27",
-  "type": "registry:component",
   "title": "Alert 27",
   "description": "Solid success alert with full green background for prominent success messages.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-27.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

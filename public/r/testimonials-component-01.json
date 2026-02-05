@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "testimonials-component-01",
-  "type": "registry:block",
   "title": "Testimonials 1",
   "description": "Testimonials section with side content and carousel featuring customer feedback with star ratings and avatars",
   "dependencies": [
@@ -36,5 +35,6 @@
   "meta": {
     "category": "marketing-ui",
     "section": "testimonials-component"
-  }
+  },
+  "type": "registry:block"
 }

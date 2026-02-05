@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "badge-15",
-  "type": "registry:component",
   "title": "Badge 15",
   "description": "Gradient outline badge with bordered gradient effect",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/badge/badge-15.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

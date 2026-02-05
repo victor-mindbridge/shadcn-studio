@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tooltip-10",
-  "type": "registry:component",
   "title": "Tooltip 10",
   "description": "A directional tooltip demo showing placement on all four sides for e.g. top, right, bottom, left",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tooltip/tooltip-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "card-17",
-  "type": "registry:component",
   "title": "Card 17",
   "description": "Dynamic 3D hover card with perspective transforms and smooth depth animations",
   "registryDependencies": [
@@ -17,5 +16,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

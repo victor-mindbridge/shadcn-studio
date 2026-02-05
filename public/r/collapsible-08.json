@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "collapsible-08",
-  "type": "registry:component",
   "title": "Collapsible 8",
   "description": "Menu items with dropdown actions and nested navigation structure",
   "dependencies": [
@@ -19,5 +18,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/collapsible/collapsible-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

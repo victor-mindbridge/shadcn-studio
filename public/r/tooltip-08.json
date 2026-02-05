@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tooltip-08",
-  "type": "registry:component",
   "title": "Tooltip 8",
   "description": "A tooltip displaying user information with avatar and name",
   "registryDependencies": [
@@ -16,5 +15,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tooltip/tooltip-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

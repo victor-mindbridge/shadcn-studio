@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "features-section-01",
-  "type": "registry:block",
   "title": "Features 1",
   "description": "Three-column grid features section with header, description, \"See all features\" button, and feature cards containing avatar icons, titles, and descriptions",
   "dependencies": [
@@ -30,5 +29,6 @@
   "meta": {
     "category": "marketing-ui",
     "section": "features-section"
-  }
+  },
+  "type": "registry:block"
 }

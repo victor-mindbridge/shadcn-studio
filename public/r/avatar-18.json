@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "avatar-18",
-  "type": "registry:component",
   "title": "Avatar 18",
   "description": "Avatar group with tooltip transitions and hover spacing effects.",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/avatar/avatar-18.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

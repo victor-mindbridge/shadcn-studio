@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-36",
-  "type": "registry:component",
   "title": "Button 36",
   "description": "Security icon button with destructive gradient background effect",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-36.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

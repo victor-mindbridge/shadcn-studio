@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-14",
-  "type": "registry:component",
   "title": "Select 14",
   "description": "A custom select dropdown with error state and validation message",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/select/select-14.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "pagination-01",
-  "type": "registry:component",
   "title": "Pagination 1",
   "description": "A basic pagination component with previous, numbered pages, and next controls",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/pagination/pagination-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

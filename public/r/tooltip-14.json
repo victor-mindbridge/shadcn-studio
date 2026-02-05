@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tooltip-14",
-  "type": "registry:component",
   "title": "Tooltip 14",
   "description": "An alert hover card with warning icon for error notifications",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tooltip/tooltip-14.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

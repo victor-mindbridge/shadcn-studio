@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "calendar-12",
-  "type": "registry:component",
   "title": "Calendar 12",
   "description": "Multi-select calendar allowing selection of multiple individual dates",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/calendar/calendar-12.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

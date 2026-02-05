@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dialog-03",
-  "type": "registry:component",
   "title": "Dialog 3",
   "description": "Destructive alert dialog with warning icon and checkbox for permanent deletion",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dialog/dialog-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

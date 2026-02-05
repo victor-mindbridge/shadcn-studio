@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-11",
-  "type": "registry:component",
   "title": "Select 11",
   "description": "A custom select dropdown with placeholder text",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/select/select-11.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

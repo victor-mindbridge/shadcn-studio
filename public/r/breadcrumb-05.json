@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "breadcrumb-05",
-  "type": "registry:component",
   "title": "Breadcrumb 5",
   "description": "Breadcrumb styled with outlined badge components for modern tab-like appearance",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/breadcrumb/breadcrumb-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

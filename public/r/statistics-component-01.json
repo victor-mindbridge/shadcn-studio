@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "statistics-component-01",
-  "type": "registry:block",
   "title": "Statistics 1",
   "description": "Logistics and shipping statistics cards displaying Shipped Orders, Damaged Returns, Missed Delivery Slots, and Late Deliveries with percentage change indicators and \"than last week\" comparison periods",
   "dependencies": [
@@ -28,5 +27,6 @@
   "meta": {
     "category": "dashboard-and-application",
     "section": "statistics-component"
-  }
+  },
+  "type": "registry:block"
 }

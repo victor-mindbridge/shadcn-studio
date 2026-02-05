@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-group-01",
-  "type": "registry:component",
   "title": "Button Group 1",
   "description": "Download button group with action button and download count display",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button-group/button-group-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-47",
-  "type": "registry:component",
   "title": "Button 47",
   "description": "Button with stitched border design using layered shadow effects",
   "files": [
@@ -14,5 +13,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

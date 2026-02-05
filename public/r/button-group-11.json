@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-group-11",
-  "type": "registry:component",
   "title": "Button Group 11",
   "description": "Git merge button group with dropdown menu for merge strategy selection",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button-group/button-group-11.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

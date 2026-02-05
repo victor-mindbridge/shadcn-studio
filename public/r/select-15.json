@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-15",
-  "type": "registry:component",
   "title": "Select 15",
   "description": "A custom select dropdown with different size variants (small, default, large)",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/select/select-15.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

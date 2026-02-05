@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dialog-01",
-  "type": "registry:component",
   "title": "Dialog 1",
   "description": "Basic alert dialog with confirmation for destructive actions",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dialog/dialog-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "breadcrumb-02",
-  "type": "registry:component",
   "title": "Breadcrumb 2",
   "description": "Breadcrumb with home icon and slash separators for enhanced navigation",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/breadcrumb/breadcrumb-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

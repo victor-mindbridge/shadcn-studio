@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "checkbox-14",
-  "type": "registry:component",
   "title": "Checkbox 14",
   "description": "List group checkboxes with icons and skills selection in bordered layout",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/checkbox/checkbox-14.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

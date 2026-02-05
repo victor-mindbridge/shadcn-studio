@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tabs-24",
-  "type": "registry:component",
   "title": "Tabs 24",
   "description": "Vertical tabs with outline styling for clean bordered appearance",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tabs/tabs-24.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

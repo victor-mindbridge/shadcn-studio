@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "calendar-21",
-  "type": "registry:component",
   "title": "Calendar 21",
   "description": "Advanced calendar with collapsible year/month selection and custom navigation",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/calendar/calendar-21.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

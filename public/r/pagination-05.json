@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "pagination-05",
-  "type": "registry:component",
   "title": "Pagination 5",
   "description": "A bordered pagination component with dividers and connected button styling",
   "registryDependencies": [
@@ -16,5 +15,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/pagination/pagination-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

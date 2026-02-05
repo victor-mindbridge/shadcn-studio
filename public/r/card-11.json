@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "card-11",
-  "type": "registry:component",
   "title": "Card 11",
   "description": "Social media post card with user profile, image, hashtags and interaction buttons",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/card/card-11.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

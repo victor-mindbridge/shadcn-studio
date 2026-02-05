@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-otp-02",
-  "type": "registry:component",
   "title": "Input OTP 2",
   "description": "A 4-character alphanumeric OTP input field supporting both letters and numbers",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input-otp/input-otp-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

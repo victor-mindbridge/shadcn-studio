@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dialog-15",
-  "type": "registry:component",
   "title": "Dialog 15",
   "description": "Invite friends dialog with avatar list and email invitation functionality",
   "dependencies": [
@@ -21,5 +20,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dialog/dialog-15.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

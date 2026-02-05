@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-27",
-  "type": "registry:component",
   "title": "Select 27",
   "description": "A music genre select dropdown with icons for each option",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/select/select-27.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

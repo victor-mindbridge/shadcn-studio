@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-35",
-  "type": "registry:component",
   "title": "Button 35",
   "description": "Mail icon button with notification badge counter for unread messages",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-35.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

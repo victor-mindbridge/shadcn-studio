@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-29",
-  "type": "registry:component",
   "title": "Alert 29",
   "description": "Solid info alert with full blue background for prominent informational messages.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-29.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

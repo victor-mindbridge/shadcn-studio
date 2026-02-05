@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-37",
-  "type": "registry:component",
   "title": "Input 37",
   "description": "Search input field with keyboard shortcut indicator (⌘K) for enhanced UX",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-37.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

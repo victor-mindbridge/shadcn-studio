@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "avatar-10",
-  "type": "registry:component",
   "title": "Avatar 10",
   "description": "Avatar with plus icon overlay for adding or editing profile functionality.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/avatar/avatar-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

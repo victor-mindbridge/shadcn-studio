@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "switch-06",
-  "type": "registry:component",
   "title": "Switch 6",
   "description": "Outline-styled switches with transparent backgrounds and colored borders for different themes",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/switch/switch-06.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

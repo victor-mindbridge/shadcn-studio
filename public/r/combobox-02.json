@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "combobox-02",
-  "type": "registry:component",
   "title": "Combobox 2",
   "description": "Grouped combobox with fruits, vegetables, and beverages organized by categories",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/combobox/combobox-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

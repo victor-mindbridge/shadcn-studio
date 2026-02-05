@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "badge-04",
-  "type": "registry:component",
   "title": "Badge 4",
   "description": "Outline variant badge with bordered styling for subtle emphasis",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/badge/badge-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

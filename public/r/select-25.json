@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-25",
-  "type": "registry:component",
   "title": "Select 25",
   "description": "A custom select dropdown with inset label design inside bordered container",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/select/select-25.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

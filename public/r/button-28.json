@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-28",
-  "type": "registry:component",
   "title": "Button 28",
   "description": "Copy button with state transition animation between copy and check icons",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-28.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

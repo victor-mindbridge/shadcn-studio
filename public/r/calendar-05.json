@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "calendar-05",
-  "type": "registry:component",
   "title": "Calendar 5",
   "description": "Range selection calendar with minimum days constraint (5 days minimum)",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/calendar/calendar-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

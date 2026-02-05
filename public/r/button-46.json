@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-46",
-  "type": "registry:component",
   "title": "Button 46",
   "description": "Destructive button with heartbeat pulse animation effect",
   "registryDependencies": [
@@ -39,5 +38,6 @@
   "meta": {
     "isAnimated": true,
     "badge": "Updated"
-  }
+  },
+  "type": "registry:component"
 }

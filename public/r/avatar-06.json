@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "avatar-06",
-  "type": "registry:component",
   "title": "Avatar 6",
   "description": "Icon avatar using Lucide icon with colored background.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/avatar/avatar-06.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

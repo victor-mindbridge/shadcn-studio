@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-mask-01",
-  "type": "registry:component",
   "title": "Input Mask 1",
   "description": "An input field with custom alphanumeric mask pattern for structured data entry",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input-mask/input-mask-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

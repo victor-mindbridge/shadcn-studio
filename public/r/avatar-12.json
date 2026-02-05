@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "avatar-12",
-  "type": "registry:component",
   "title": "Avatar 12",
   "description": "Avatar with verified badge showing check mark icon for verified accounts.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/avatar/avatar-12.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

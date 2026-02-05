@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-otp-04",
-  "type": "registry:component",
   "title": "Input OTP 4",
   "description": "A 4-digit OTP input field with countdown timer and automatic resend functionality",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input-otp/input-otp-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

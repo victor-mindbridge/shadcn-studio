@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "portfolio-01",
-  "type": "registry:block",
   "title": "Portfolio 1",
   "description": "Portfolio showcase with masonry grid layout featuring project details, client information, and social media links",
   "dependencies": [
@@ -28,5 +27,6 @@
   "meta": {
     "category": "marketing-ui",
     "section": "portfolio"
-  }
+  },
+  "type": "registry:block"
 }

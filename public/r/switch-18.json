@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "switch-18",
-  "type": "registry:component",
   "title": "Switch 18",
   "description": "A list group of switches with icons for skill preference selection across multiple categories",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/switch/switch-18.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

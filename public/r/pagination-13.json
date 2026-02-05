@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "pagination-13",
-  "type": "registry:component",
   "title": "Pagination 13",
   "description": "A compact mini pagination component with page count display and icon navigation",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/pagination/pagination-13.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

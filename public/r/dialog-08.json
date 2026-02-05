@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dialog-08",
-  "type": "registry:component",
   "title": "Dialog 8",
   "description": "Terms and conditions dialog with structured content and accept/decline actions",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dialog/dialog-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

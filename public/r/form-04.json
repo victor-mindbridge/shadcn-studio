@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "form-04",
-  "type": "registry:component",
   "title": "Form 4",
   "description": "Form with input fields and validation alerts for data entry",
   "dependencies": [
@@ -21,5 +20,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/form/form-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

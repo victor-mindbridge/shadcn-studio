@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "textarea-07",
-  "type": "registry:component",
   "title": "Textarea 7",
   "description": "A required textarea with asterisk indicator for mandatory fields",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/textarea/textarea-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

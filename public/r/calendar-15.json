@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "calendar-15",
-  "type": "registry:component",
   "title": "Calendar 15",
   "description": "Calendar with right-aligned navigation controls for alternative layout",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/calendar/calendar-15.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

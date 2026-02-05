@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-39",
-  "type": "registry:component",
   "title": "Input 39",
   "description": "Search input field with loading indicator that shows during search operations",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-39.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "calendar-13",
-  "type": "registry:component",
   "title": "Calendar 13",
   "description": "Custom styled calendar with sky blue theme for selected dates",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/calendar/calendar-13.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

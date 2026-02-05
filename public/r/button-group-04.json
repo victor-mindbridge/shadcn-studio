@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-group-04",
-  "type": "registry:component",
   "title": "Button Group 4",
   "description": "Rounded media control button group with play, pause, and skip functions",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button-group/button-group-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

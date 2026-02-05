@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "calendar-19",
-  "type": "registry:component",
   "title": "Calendar 19",
   "description": "Calendar with synchronized date input field for manual date entry",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/calendar/calendar-19.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

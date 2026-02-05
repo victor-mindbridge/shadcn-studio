@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-11",
-  "type": "registry:component",
   "title": "Input 11",
   "description": "An email input field with hint text indicating the field is optional",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-11.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-22",
-  "type": "registry:component",
   "title": "Alert 22",
   "description": "Soft info alert with blue background and subtle styling for information.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-22.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

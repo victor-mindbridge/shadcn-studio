@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "date-picker-10",
-  "type": "registry:component",
   "title": "Date Picker 10",
   "description": "Combined date picker and time input displayed side by side for datetime selection",
   "dependencies": [
@@ -21,5 +20,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/date-picker/date-picker-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

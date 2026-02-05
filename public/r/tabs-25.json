@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tabs-25",
-  "type": "registry:component",
   "title": "Tabs 25",
   "description": "Custom styled tabs with primary background active state and enhanced hover effects",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tabs/tabs-25.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

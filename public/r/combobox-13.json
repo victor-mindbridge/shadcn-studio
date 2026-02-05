@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "combobox-13",
-  "type": "registry:component",
   "title": "Combobox 13",
   "description": "Framework selector combobox with smooth animations and motion effects",
   "dependencies": [
@@ -23,5 +22,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

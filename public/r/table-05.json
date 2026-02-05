@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "table-05",
-  "type": "registry:component",
   "title": "Table 5",
   "description": "A table without borders for a clean, minimal appearance",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/table/table-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

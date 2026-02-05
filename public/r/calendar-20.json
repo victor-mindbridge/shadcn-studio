@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "calendar-20",
-  "type": "registry:component",
   "title": "Calendar 20",
   "description": "Calendar with integrated time input for complete datetime selection",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/calendar/calendar-20.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

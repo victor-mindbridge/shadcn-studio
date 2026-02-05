@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "popover-08",
-  "type": "registry:component",
   "title": "Popover 8",
   "description": "A feedback popover with textarea for user comments and send/cancel actions",
   "dependencies": [
@@ -19,5 +18,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/popover/popover-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

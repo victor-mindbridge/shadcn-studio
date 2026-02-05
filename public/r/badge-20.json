@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "badge-20",
-  "type": "registry:component",
   "title": "Badge 20",
   "description": "Failed status badge with destructive outline and ban icon",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/badge/badge-20.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "calendar-02",
-  "type": "registry:component",
   "title": "Calendar 2",
   "description": "Multi-month calendar displaying two months side by side for single date selection",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/calendar/calendar-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

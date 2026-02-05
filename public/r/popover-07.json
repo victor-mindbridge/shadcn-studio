@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "popover-07",
-  "type": "registry:component",
   "title": "Popover 7",
   "description": "A file deletion confirmation popover with warning icon and action buttons",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/popover/popover-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

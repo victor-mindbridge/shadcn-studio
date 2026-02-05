@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "combobox-07",
-  "type": "registry:component",
   "title": "Combobox 7",
   "description": "Timezone selector combobox with real timezone data from Intl API",
   "dependencies": [
@@ -21,5 +20,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/combobox/combobox-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

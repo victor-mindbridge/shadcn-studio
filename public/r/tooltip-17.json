@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tooltip-17",
-  "type": "registry:component",
   "title": "Tooltip 17",
   "description": "A global tooltip system with overlapping avatars and hover scaling effects using global-tooltip component",
   "dependencies": [
@@ -27,5 +26,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

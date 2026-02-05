@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-21",
-  "type": "registry:component",
   "title": "Input 21",
   "description": "A URL input field with both external \"https://\" and \".com\" add-on boxes",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-21.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

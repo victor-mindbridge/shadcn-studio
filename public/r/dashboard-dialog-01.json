@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dashboard-dialog-01",
-  "type": "registry:block",
   "title": "Dashboard Dialog 1",
   "description": "A subscription plan selection dialog with pricing options, features comparison, and radio button selection for choosing between different tiers.",
   "dependencies": [
@@ -32,5 +31,6 @@
   "meta": {
     "category": "dashboard-and-application",
     "section": "dashboard-dialog"
-  }
+  },
+  "type": "registry:block"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-mask-02",
-  "type": "registry:component",
   "title": "Input Mask 2",
   "description": "A time input field with HH:MM:SS mask formatting for precise time entry",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input-mask/input-mask-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

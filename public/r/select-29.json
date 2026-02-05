@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-29",
-  "type": "registry:component",
   "title": "Select 29",
   "description": "A status select dropdown with colored circle indicators for each status",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/select/select-29.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

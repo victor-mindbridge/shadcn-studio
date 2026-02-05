@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "textarea-15",
-  "type": "registry:component",
   "title": "Textarea 15",
   "description": "A textarea with inset label for compact form layouts",
   "files": [
@@ -11,5 +10,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/textarea/textarea-15.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

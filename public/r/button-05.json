@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-05",
-  "type": "registry:component",
   "title": "Button 5",
   "description": "Outline buttons with icons positioned before and after text",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

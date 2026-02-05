@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dashboard-dropdown-01",
-  "type": "registry:block",
   "title": "Dashboard Dropdown 1",
   "description": "A language selection dropdown with flag icons and language options for internationalization and localization features.",
   "dependencies": [
@@ -28,5 +27,6 @@
   "meta": {
     "category": "dashboard-and-application",
     "section": "dashboard-dropdown"
-  }
+  },
+  "type": "registry:block"
 }

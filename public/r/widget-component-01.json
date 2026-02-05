@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "widget-component-01",
-  "type": "registry:block",
   "title": "Widget 1",
   "description": "Total earnings widget with progress tracking, interactive controls, and comprehensive financial overview",
   "dependencies": [
@@ -31,5 +30,6 @@
   "meta": {
     "category": "dashboard-and-application",
     "section": "widgets-component"
-  }
+  },
+  "type": "registry:block"
 }

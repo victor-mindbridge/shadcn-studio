@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "accordion-13",
-  "type": "registry:component",
   "title": "Accordion 13",
   "description": "Media content accordion with category icons and embedded images in accordion content.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/accordion/accordion-13.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

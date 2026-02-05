@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "radio-group-13",
-  "type": "registry:component",
   "title": "Radio Group 13",
   "description": "A vertical card radio group with icons and centered layout for plan selection",
   "dependencies": [
@@ -19,5 +18,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/radio-group/radio-group-13.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

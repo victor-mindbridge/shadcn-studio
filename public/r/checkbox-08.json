@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "checkbox-08",
-  "type": "registry:component",
   "title": "Checkbox 8",
   "description": "Horizontal group of checkboxes for technology selection with organized layout",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/checkbox/checkbox-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

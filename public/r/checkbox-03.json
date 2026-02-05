@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "checkbox-03",
-  "type": "registry:component",
   "title": "Checkbox 3",
   "description": "Checkbox with dashed border styling for visual distinction",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/checkbox/checkbox-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

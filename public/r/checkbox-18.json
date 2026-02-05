@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "checkbox-18",
-  "type": "registry:component",
   "title": "Checkbox 18",
   "description": "Animated todo checkbox with strikethrough effect and smooth transitions",
   "dependencies": [
@@ -28,5 +27,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

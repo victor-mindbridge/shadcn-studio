@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "date-picker-12",
-  "type": "registry:component",
   "title": "Date Picker 12",
   "description": "Travel date picker with departure/return dates and time selection for bookings",
   "dependencies": [
@@ -21,5 +20,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/date-picker/date-picker-12.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

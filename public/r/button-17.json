@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-17",
-  "type": "registry:component",
   "title": "Button 17",
   "description": "Loading button with spinning icon in disabled state",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-17.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-01",
-  "type": "registry:component",
   "title": "Button 1",
   "description": "A basic button component with default styling",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tabs-03",
-  "type": "registry:component",
   "title": "Tabs 3",
   "description": "Tabs with icons for enhanced visual navigation and improved user experience",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tabs/tabs-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

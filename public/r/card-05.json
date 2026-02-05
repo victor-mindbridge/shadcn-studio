@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "card-05",
-  "type": "registry:component",
   "title": "Card 5",
   "description": "Image showcase card with top-aligned image and action buttons",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/card/card-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

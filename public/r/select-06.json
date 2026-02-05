@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-06",
-  "type": "registry:component",
   "title": "Select 6",
   "description": "A required native select dropdown with asterisk indicator",
   "dependencies": [
@@ -24,5 +23,6 @@
       "type": "registry:ui",
       "target": "components/ui/select-native.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

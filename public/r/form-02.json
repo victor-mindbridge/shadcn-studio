@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "form-02",
-  "type": "registry:component",
   "title": "Form 2",
   "description": "Form with checkbox controls and alert integration for user selections",
   "dependencies": [
@@ -21,5 +20,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/form/form-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

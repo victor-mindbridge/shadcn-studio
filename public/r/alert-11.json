@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-11",
-  "type": "registry:component",
   "title": "Alert 11",
   "description": "Success indicator alert with left border highlight and green success styling.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-11.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

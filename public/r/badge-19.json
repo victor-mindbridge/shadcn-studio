@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "badge-19",
-  "type": "registry:component",
   "title": "Badge 19",
   "description": "Pending status badge with amber outline and alert icon",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/badge/badge-19.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

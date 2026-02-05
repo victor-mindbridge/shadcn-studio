@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "popover-05",
-  "type": "registry:component",
   "title": "Popover 5",
   "description": "An informational popover about Shadcn Studio with description and learn more link",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/popover/popover-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

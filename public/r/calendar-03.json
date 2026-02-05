@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "calendar-03",
-  "type": "registry:component",
   "title": "Calendar 3",
   "description": "Single month calendar with date range selection capability",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/calendar/calendar-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

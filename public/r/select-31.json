@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-31",
-  "type": "registry:component",
   "title": "Select 31",
   "description": "A user select dropdown with avatar images for each user option",
   "registryDependencies": [
@@ -16,5 +15,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/select/select-31.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

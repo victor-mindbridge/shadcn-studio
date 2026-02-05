@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "textarea-17",
-  "type": "registry:component",
   "title": "Textarea 17",
   "description": "An auto-growing textarea with field-sizing-content that expands with text content",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/textarea/textarea-17.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

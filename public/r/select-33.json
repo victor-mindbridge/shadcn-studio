@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-33",
-  "type": "registry:component",
   "title": "Select 33",
   "description": "A multi-select dropdown with placeholder, badge display and removal functionality",
   "dependencies": [
@@ -26,5 +25,6 @@
       "type": "registry:ui",
       "target": "components/ui/multi-select.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

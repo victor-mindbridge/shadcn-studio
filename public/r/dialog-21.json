@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dialog-21",
-  "type": "registry:component",
   "title": "Dialog 21",
   "description": "Profile edit dialog positioned at bottom-left-aligned of screen",
   "registryDependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dialog/dialog-21.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

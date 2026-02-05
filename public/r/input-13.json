@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-13",
-  "type": "registry:component",
   "title": "Input 13",
   "description": "An email input field with custom indigo focus ring styling",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-13.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

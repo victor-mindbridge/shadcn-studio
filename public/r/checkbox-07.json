@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "checkbox-07",
-  "type": "registry:component",
   "title": "Checkbox 7",
   "description": "Checkbox with description text providing additional context and information",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/checkbox/checkbox-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

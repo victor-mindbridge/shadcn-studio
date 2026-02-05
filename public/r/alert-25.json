@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-25",
-  "type": "registry:component",
   "title": "Alert 25",
   "description": "Soft destructive alert with red background and subtle styling for errors.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-25.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

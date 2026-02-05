@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-group-13",
-  "type": "registry:component",
   "title": "Button Group 13",
   "description": "Email action button group with ripple animation effects",
   "dependencies": [
@@ -29,5 +28,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

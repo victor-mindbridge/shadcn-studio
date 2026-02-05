@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tabs-14",
-  "type": "registry:component",
   "title": "Tabs 14",
   "description": "Overflow tabs with scrollable area for handling many tab items",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tabs/tabs-14.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

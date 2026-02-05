@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-group-10",
-  "type": "registry:component",
   "title": "Button Group 10",
   "description": "Flip transformation button group with horizontal and vertical controls",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button-group/button-group-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

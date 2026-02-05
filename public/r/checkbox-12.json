@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "checkbox-12",
-  "type": "registry:component",
   "title": "Checkbox 12",
   "description": "Filled circular checkboxes with color themes and circle check icons",
   "dependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/checkbox/checkbox-12.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

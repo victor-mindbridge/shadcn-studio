@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-30",
-  "type": "registry:component",
   "title": "Select 30",
   "description": "A country select dropdown with flag images for each country option",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/select/select-30.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

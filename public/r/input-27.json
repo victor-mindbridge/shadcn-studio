@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-27",
-  "type": "registry:component",
   "title": "Input 27",
   "description": "A file input field with custom styling for the file picker button",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-27.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

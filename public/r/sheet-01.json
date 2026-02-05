@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "sheet-01",
-  "type": "registry:component",
   "title": "Sheet 1",
   "description": "A basic sheet component with form inputs for profile editing",
   "registryDependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/sheet/sheet-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

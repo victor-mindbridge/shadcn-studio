@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "table-01",
-  "type": "registry:component",
   "title": "Table 1",
   "description": "A basic table with caption, header, body, and footer displaying invoice data",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/table/table-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dropdown-menu-15",
-  "type": "registry:component",
   "title": "Dropdown Menu 15",
   "description": "Left side animation dropdown menu",
   "registryDependencies": [
@@ -18,5 +17,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

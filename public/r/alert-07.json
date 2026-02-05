@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-07",
-  "type": "registry:component",
   "title": "Alert 7",
   "description": "File upload progress alert with animated progress bar, action buttons, and close functionality.",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

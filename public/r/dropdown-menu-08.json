@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dropdown-menu-08",
-  "type": "registry:component",
   "title": "Dropdown Menu 8",
   "description": "User profile dropdown with avatar header, user info, and submenu for invitations",
   "registryDependencies": [
@@ -16,5 +15,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dropdown-menu/dropdown-menu-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

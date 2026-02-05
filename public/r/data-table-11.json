@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "data-table-11",
-  "type": "registry:component",
   "title": "Data Table 11",
   "description": "data table with sorting, row selection, and pagination—styled with Origin UI and powered by @tanstack/react-table",
   "dependencies": [
@@ -29,5 +28,6 @@
       "type": "registry:hook",
       "target": "hooks/use-pagination.ts"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

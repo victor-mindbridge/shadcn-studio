@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "contact-us-page-01",
-  "type": "registry:block",
   "title": "Contact Us 1",
   "description": "Two-column layout with contact illustration image and contact information grid featuring avatar icons and contact details",
   "dependencies": [
@@ -28,5 +27,6 @@
   "meta": {
     "category": "marketing-ui",
     "section": "contact-us-page"
-  }
+  },
+  "type": "registry:block"
 }

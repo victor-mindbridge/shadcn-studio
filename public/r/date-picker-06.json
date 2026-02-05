@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "date-picker-06",
-  "type": "registry:component",
   "title": "Date Picker 6",
   "description": "Date range picker with compact date formatting using little-date library",
   "dependencies": [
@@ -21,5 +20,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/date-picker/date-picker-06.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

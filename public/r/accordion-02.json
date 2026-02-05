@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "accordion-02",
-  "type": "registry:component",
   "title": "Accordion 2",
   "description": "Card-style accordion with separated items, shadow effects, and rotated chevron icons.",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/accordion/accordion-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

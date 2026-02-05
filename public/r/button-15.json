@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-15",
-  "type": "registry:component",
   "title": "Button 15",
   "description": "Destructive outline button for discard/delete actions",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-15.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

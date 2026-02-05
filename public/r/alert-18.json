@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-18",
-  "type": "registry:component",
   "title": "Alert 18",
   "description": "Outline info alert with blue border and text styling for informational messages.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-18.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

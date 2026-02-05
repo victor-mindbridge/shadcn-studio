@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-40",
-  "type": "registry:component",
   "title": "Button 40",
   "description": "Button with ring hover effect that shows animated border on hover",
   "registryDependencies": [
@@ -17,5 +16,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

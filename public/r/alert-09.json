@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-09",
-  "type": "registry:component",
   "title": "Alert 9",
   "description": "Task progress alert with user avatar, progress indicator, and task completion tracking.",
   "dependencies": [
@@ -19,5 +18,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-09.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

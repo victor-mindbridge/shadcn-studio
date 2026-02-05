@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "radio-group-12",
-  "type": "registry:component",
   "title": "Radio Group 12",
   "description": "A border less card radio group with hidden radio buttons and label-based selection",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/radio-group/radio-group-12.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

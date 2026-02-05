@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "date-picker-11",
-  "type": "registry:component",
   "title": "Date Picker 11",
   "description": "Date picker with time range selection (from/to times) for event scheduling",
   "dependencies": [
@@ -21,5 +20,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/date-picker/date-picker-11.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "radio-group-02",
-  "type": "registry:component",
   "title": "Radio Group 2",
   "description": "A horizontal radio group layout",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/radio-group/radio-group-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

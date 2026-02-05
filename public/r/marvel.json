@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "marvel",
-  "type": "registry:style",
   "cssVars": {
     "theme": {
       "font-sans": "Outfit, sans-serif",
@@ -127,5 +126,6 @@
         "letter-spacing": "var(--tracking-normal)"
       }
     }
-  }
+  },
+  "type": "registry:style"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-20",
-  "type": "registry:component",
   "title": "Select 20",
   "description": "A custom select dropdown with disabled individual options",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/select/select-20.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

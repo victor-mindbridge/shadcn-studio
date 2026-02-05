@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "card-03",
-  "type": "registry:component",
   "title": "Card 3",
   "description": "Team invitation card with member list and invite functionality",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/card/card-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

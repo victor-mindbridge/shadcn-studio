@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "popover-06",
-  "type": "registry:component",
   "title": "Popover 6",
   "description": "A download progress popover with progress bar and pause/cancel/retry controls",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/popover/popover-06.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

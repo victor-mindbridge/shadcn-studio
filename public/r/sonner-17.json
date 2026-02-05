@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "sonner-17",
-  "type": "registry:component",
   "title": "Sonner 17",
   "description": "A solid-styled info toast notification with blue background and white text for prominent messaging",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/sonner/sonner-17.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

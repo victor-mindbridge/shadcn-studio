@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "popover-04",
-  "type": "registry:component",
   "title": "Popover 4",
   "description": "A volume control popover with a slider for adjusting audio levels",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/popover/popover-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

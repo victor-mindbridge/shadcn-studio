@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "checkbox-02",
-  "type": "registry:component",
   "title": "Checkbox 2",
   "description": "Indeterminate checkbox with custom styling and three-state functionality",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/checkbox/checkbox-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

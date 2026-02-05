@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dropdown-menu-03",
-  "type": "registry:component",
   "title": "Dropdown Menu 3",
   "description": "Chat list dropdown with avatars, message previews, and notification badges",
   "registryDependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dropdown-menu/dropdown-menu-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

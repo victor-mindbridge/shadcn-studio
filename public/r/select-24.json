@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-24",
-  "type": "registry:component",
   "title": "Select 24",
   "description": "A custom select dropdown with overlapping label positioned over the border",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/select/select-24.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

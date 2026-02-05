@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "popover-14",
-  "type": "registry:component",
   "title": "Popover 14",
   "description": "A team sharing popover with email input and member selection checkboxes with slide in from bottom animation",
   "registryDependencies": [
@@ -22,5 +21,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

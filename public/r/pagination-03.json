@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "pagination-03",
-  "type": "registry:component",
   "title": "Pagination 3",
   "description": "A pagination component with primary button styling for the active page",
   "registryDependencies": [
@@ -16,5 +15,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/pagination/pagination-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

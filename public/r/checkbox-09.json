@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "checkbox-09",
-  "type": "registry:component",
   "title": "Checkbox 9",
   "description": "Vertical group of checkboxes with icons for fruits selection",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/checkbox/checkbox-09.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

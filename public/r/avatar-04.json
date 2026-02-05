@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "avatar-04",
-  "type": "registry:component",
   "title": "Avatar 4",
   "description": "Large sized avatar variant with expanded dimensions.",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/avatar/avatar-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

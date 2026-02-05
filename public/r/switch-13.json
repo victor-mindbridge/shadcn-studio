@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "switch-13",
-  "type": "registry:component",
   "title": "Switch 13",
   "description": "A switch with sliding check and X icon indicators that move with the toggle handle",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/switch/switch-13.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

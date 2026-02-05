@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "date-picker-05",
-  "type": "registry:component",
   "title": "Date Picker 5",
   "description": "Natural language date picker supporting phrases like \"tomorrow\" or \"next week\"",
   "dependencies": [
@@ -22,5 +21,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/date-picker/date-picker-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-26",
-  "type": "registry:component",
   "title": "Select 26",
   "description": "A timezone select dropdown with grouped time zones by geographic regions",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/select/select-26.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "avatar-20",
-  "type": "registry:component",
   "title": "Avatar 20",
   "description": "Avatar group with outlined container and background styling.",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/avatar/avatar-20.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

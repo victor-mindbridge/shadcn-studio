@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-group-05",
-  "type": "registry:component",
   "title": "Button Group 5",
   "description": "Social media links button group with branded colors and hover effects",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button-group/button-group-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

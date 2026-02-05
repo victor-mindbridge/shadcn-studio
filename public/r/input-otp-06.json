@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-otp-06",
-  "type": "registry:component",
   "title": "Input OTP 6",
   "description": "A 4-digit OTP input field with filled background styling and muted appearance",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input-otp/input-otp-06.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "badge-02",
-  "type": "registry:component",
   "title": "Badge 2",
   "description": "Secondary variant badge with muted styling for less prominent labels",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/badge/badge-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dashboard-footer-01",
-  "type": "registry:block",
   "title": "Dashboard Footer 1",
   "description": "A complete dashboard layout with sidebar, main content area, and footer featuring copyright text with social media icons (Facebook, Instagram, LinkedIn, Twitter) for application branding.",
   "dependencies": [
@@ -22,5 +21,6 @@
   "meta": {
     "category": "dashboard-and-application",
     "section": "dashboard-footer"
-  }
+  },
+  "type": "registry:block"
 }

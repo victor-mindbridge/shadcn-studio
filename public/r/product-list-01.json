@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "product-list-01",
-  "type": "registry:block",
   "title": "Product List 1",
   "description": "Three-column grid layout with product cards featuring centered images, product names with badges, separator lines, pricing with sale discounts, wishlist checkboxes and shopping cart icons",
   "dependencies": [
@@ -32,5 +31,6 @@
   "meta": {
     "category": "ecommerce",
     "section": "product-list"
-  }
+  },
+  "type": "registry:block"
 }

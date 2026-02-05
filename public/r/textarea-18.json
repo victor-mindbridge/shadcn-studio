@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "textarea-18",
-  "type": "registry:component",
   "title": "Textarea 18",
   "description": "A textarea with disabled resize functionality for fixed dimensions",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/textarea/textarea-18.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

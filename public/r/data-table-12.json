@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "data-table-12",
-  "type": "registry:component",
   "title": "Data Table 12",
   "description": "Data table with export functionality supporting CSV, Excel, and multiple formats",
   "dependencies": [
@@ -26,5 +25,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/data-table/data-table-12.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

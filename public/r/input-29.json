@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-29",
-  "type": "registry:component",
   "title": "Input 29",
   "description": "A domain input field with a TLD selector dropdown at the end",
   "registryDependencies": [
@@ -16,5 +15,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-29.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

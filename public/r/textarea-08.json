@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "textarea-08",
-  "type": "registry:component",
   "title": "Textarea 8",
   "description": "A textarea with colored border (indigo) styling and focus ring effects",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/textarea/textarea-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

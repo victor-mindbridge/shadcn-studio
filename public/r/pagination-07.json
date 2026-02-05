@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "pagination-07",
-  "type": "registry:component",
   "title": "Pagination 7",
   "description": "A pagination component with first and last page navigation buttons",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/pagination/pagination-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

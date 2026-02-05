@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-28",
-  "type": "registry:component",
   "title": "Select 28",
   "description": "A custom select dropdown with leading text before the selected value",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/select/select-28.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

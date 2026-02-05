@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "collapsible-01",
-  "type": "registry:component",
   "title": "Collapsible 1",
   "description": "Basic collapsible with repository list and toggle button functionality",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/collapsible/collapsible-01.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "application-shell-01",
-  "type": "registry:block",
   "title": "Application Shell 1",
   "description": "Classic sidebar application shell with navigation menu, user profile, and language selector for traditional dashboard layouts.",
   "dependencies": [
@@ -39,5 +38,6 @@
   "meta": {
     "category": "dashboard-and-application",
     "section": "application-shell"
-  }
+  },
+  "type": "registry:block"
 }

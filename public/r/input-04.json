@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-04",
-  "type": "registry:component",
   "title": "Input 4",
   "description": "A disabled email input field that prevents user interaction",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

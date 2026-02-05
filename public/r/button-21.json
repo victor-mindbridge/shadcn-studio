@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-21",
-  "type": "registry:component",
   "title": "Button 21",
   "description": "Button with badge indicator showing unread message count",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-21.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tabs-27",
-  "type": "registry:component",
   "title": "Tabs 27",
   "description": "Animated tabs with motion highlight transitions using motion-tabs components",
   "dependencies": [
@@ -29,5 +28,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

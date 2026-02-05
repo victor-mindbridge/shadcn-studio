@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "card-02",
-  "type": "registry:component",
   "title": "Card 2",
   "description": "Meeting notes card with team member avatars and attendee list",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/card/card-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tooltip-13",
-  "type": "registry:component",
   "title": "Tooltip 13",
   "description": "A project hover card with progress bar, timeline, and team avatars",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tooltip/tooltip-13.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-20",
-  "type": "registry:component",
   "title": "Input 20",
   "description": "A domain input field with an external \".com\" add-on box at the end",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-20.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

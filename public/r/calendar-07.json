@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "calendar-07",
-  "type": "registry:component",
   "title": "Calendar 7",
   "description": "Range calendar with disabled weekends for business day selection only",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/calendar/calendar-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

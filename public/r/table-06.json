@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "table-06",
-  "type": "registry:component",
   "title": "Table 6",
   "description": "A striped rows table with alternating row background colors for improved readability",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/table/table-06.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

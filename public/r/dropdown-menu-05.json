@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dropdown-menu-05",
-  "type": "registry:component",
   "title": "Dropdown Menu 5",
   "description": "Meeting schedule dropdown with avatars, switch toggles for scheduling control",
   "registryDependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dropdown-menu/dropdown-menu-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

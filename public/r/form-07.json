@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "form-07",
-  "type": "registry:component",
   "title": "Form 7",
   "description": "Form with select dropdown components for option selection",
   "dependencies": [
@@ -21,5 +20,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/form/form-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

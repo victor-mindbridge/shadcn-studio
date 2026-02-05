@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-group-08",
-  "type": "registry:component",
   "title": "Button Group 8",
   "description": "Preview link button group with primary action and external link icon",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button-group/button-group-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

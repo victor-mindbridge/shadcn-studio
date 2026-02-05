@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "pagination-11",
-  "type": "registry:component",
   "title": "Pagination 11",
   "description": "A minimal numberless pagination component with only previous and next controls",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/pagination/pagination-11.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

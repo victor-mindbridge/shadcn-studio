@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "badge-12",
-  "type": "registry:component",
   "title": "Badge 12",
   "description": "Closable badge with X button for dismissible notifications",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/badge/badge-12.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dropdown-menu-06",
-  "type": "registry:component",
   "title": "Dropdown Menu 6",
   "description": "Text editing dropdown menu with formatting options and descriptions",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dropdown-menu/dropdown-menu-06.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

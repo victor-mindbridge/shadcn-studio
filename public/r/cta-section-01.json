@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "cta-section-01",
-  "type": "registry:block",
   "title": "CTA 1",
   "description": "Rounded card layout with app download content featuring heading, description, and App Store/Google Play download buttons",
   "registryDependencies": [
@@ -24,5 +23,6 @@
   "meta": {
     "category": "marketing-ui",
     "section": "cta-section"
-  }
+  },
+  "type": "registry:block"
 }

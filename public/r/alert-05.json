@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-05",
-  "type": "registry:component",
   "title": "Alert 5",
   "description": "Attached icon alert with separated icon section and destructive warning styling.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

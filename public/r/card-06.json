@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "card-06",
-  "type": "registry:component",
   "title": "Card 6",
   "description": "Horizontal layout card with side-by-side image and content",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/card/card-06.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

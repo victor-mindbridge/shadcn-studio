@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "switch-16",
-  "type": "registry:component",
   "title": "Switch 16",
   "description": "A switch card with Google Cloud icon for backup service toggle functionality",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/switch/switch-16.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

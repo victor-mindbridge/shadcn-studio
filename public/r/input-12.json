@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-12",
-  "type": "registry:component",
   "title": "Input 12",
   "description": "An email input field with error validation and dynamic error message display",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-12.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

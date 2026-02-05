@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "combobox-14",
-  "type": "registry:component",
   "title": "Combobox 14",
   "description": "Framework selector combobox with floating label animation and enhanced styling",
   "dependencies": [
@@ -23,5 +22,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

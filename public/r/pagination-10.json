@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "pagination-10",
-  "type": "registry:component",
   "title": "Pagination 10",
   "description": "A card-style pagination component with border, shadow, and contained layout",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/pagination/pagination-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

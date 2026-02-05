@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "date-picker-13",
-  "type": "registry:component",
   "title": "Date Picker 13",
   "description": "Analytics chart with date range filter showing visitor data and interactive filtering",
   "dependencies": [
@@ -25,5 +24,6 @@
   ],
   "meta": {
     "className": "col-span-full border-r-0"
-  }
+  },
+  "type": "registry:component"
 }

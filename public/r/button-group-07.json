@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-group-07",
-  "type": "registry:component",
   "title": "Button Group 7",
   "description": "Number input button group with plus/minus controls and value display",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button-group/button-group-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

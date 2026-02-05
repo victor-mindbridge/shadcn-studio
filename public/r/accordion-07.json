@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "accordion-07",
-  "type": "registry:component",
   "title": "Accordion 7",
   "description": "Avatar-based accordion displaying user profiles with avatar images, names, and email addresses.",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/accordion/accordion-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

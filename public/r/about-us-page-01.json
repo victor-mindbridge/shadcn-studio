@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "about-us-page-01",
-  "type": "registry:block",
   "title": "About Us 1",
   "description": "Centered header with video/image section and overlapping stats grid card displaying icons, values, and descriptions",
   "dependencies": [
@@ -29,5 +28,6 @@
   "meta": {
     "category": "marketing-ui",
     "section": "about-us-page"
-  }
+  },
+  "type": "registry:block"
 }

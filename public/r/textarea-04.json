@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "textarea-04",
-  "type": "registry:component",
   "title": "Textarea 4",
   "description": "A textarea with right-aligned helper text for guidance",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/textarea/textarea-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

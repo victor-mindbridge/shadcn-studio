@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "select-18",
-  "type": "registry:component",
   "title": "Select 18",
   "description": "A ghost-style custom select dropdown with minimal styling and hover effects",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/select/select-18.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

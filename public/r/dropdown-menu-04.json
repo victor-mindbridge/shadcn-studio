@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dropdown-menu-04",
-  "type": "registry:component",
   "title": "Dropdown Menu 4",
   "description": "Contact list dropdown with avatars, email display, and send action buttons",
   "registryDependencies": [
@@ -16,5 +15,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dropdown-menu/dropdown-menu-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

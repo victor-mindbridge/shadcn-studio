@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "data-table-13",
-  "type": "registry:component",
   "title": "Data Table 13",
   "description": "editable data table with inline cell editing for text, status, and progress—supports row selection and live updates.",
   "dependencies": [
@@ -21,5 +20,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/data-table/data-table-13.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-mask-05",
-  "type": "registry:component",
   "title": "Input Mask 5",
   "description": "A credit card CVC input field with secure formatting and length validation",
   "dependencies": [
@@ -21,5 +20,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input-mask/input-mask-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

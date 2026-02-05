@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "combobox-04",
-  "type": "registry:component",
   "title": "Combobox 4",
   "description": "Industry selector combobox with icons for various business sectors",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/combobox/combobox-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

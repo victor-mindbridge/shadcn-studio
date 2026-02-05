@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tooltip-09",
-  "type": "registry:component",
   "title": "Tooltip 9",
   "description": "A tooltip with badge indicator for pricing and status information",
   "registryDependencies": [
@@ -16,5 +15,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tooltip/tooltip-09.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

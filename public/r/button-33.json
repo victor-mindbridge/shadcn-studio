@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-33",
-  "type": "registry:component",
   "title": "Button 33",
   "description": "Toggle icon button that switches between menu and close icons",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-33.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

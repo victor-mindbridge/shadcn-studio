@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-group-15",
-  "type": "registry:component",
   "title": "Button Group 15",
   "description": "Navigation button group with scale animation on press using Framer Motion",
   "dependencies": [
@@ -21,5 +20,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

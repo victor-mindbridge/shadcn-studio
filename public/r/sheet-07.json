@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "sheet-07",
-  "type": "registry:component",
   "title": "Sheet 7",
   "description": "A sheet component with data table, pagination, and form integration for adding user data",
   "dependencies": [
@@ -27,5 +26,6 @@
   ],
   "meta": {
     "className": "col-span-full border-r-0"
-  }
+  },
+  "type": "registry:component"
 }

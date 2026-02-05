@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tabs-20",
-  "type": "registry:component",
   "title": "Tabs 20",
   "description": "Vertical tabs with lined separator styling for organized layout",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tabs/tabs-20.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tabs-22",
-  "type": "registry:component",
   "title": "Tabs 22",
   "description": "Vertical tabs with icons for enhanced visual navigation",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tabs/tabs-22.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

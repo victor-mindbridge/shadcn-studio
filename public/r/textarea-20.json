@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "textarea-20",
-  "type": "registry:component",
   "title": "Textarea 20",
   "description": "A read-only textarea with muted background styling for displaying non-editable content",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/textarea/textarea-20.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

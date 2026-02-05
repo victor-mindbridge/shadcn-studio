@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dropdown-menu-13",
-  "type": "registry:component",
   "title": "Dropdown Menu 13",
   "description": "Dropdown with checkbox controls for UI elements",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dropdown-menu/dropdown-menu-13.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

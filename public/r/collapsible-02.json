@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "collapsible-02",
-  "type": "registry:component",
   "title": "Collapsible 2",
   "description": "File tree explorer with nested folders and expandable directory structure",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/collapsible/collapsible-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

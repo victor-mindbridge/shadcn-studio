@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "tooltip-11",
-  "type": "registry:component",
   "title": "Tooltip 11",
   "description": "A hover card with media content including image and description links",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/tooltip/tooltip-11.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

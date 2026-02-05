@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "switch-14",
-  "type": "registry:component",
   "title": "Switch 14",
   "description": "A square-styled switch with sliding Yes/No text indicators in the background",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/switch/switch-14.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

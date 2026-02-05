@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-mask-03",
-  "type": "registry:component",
   "title": "Input Mask 3",
   "description": "A credit card number input with automatic formatting and card type detection",
   "dependencies": [
@@ -22,5 +21,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input-mask/input-mask-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

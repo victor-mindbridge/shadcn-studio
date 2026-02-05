@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "gallery-component-01",
-  "type": "registry:block",
   "title": "Gallery 1",
   "description": "Gallery section with centered header featuring underlined text highlight, flexible grid layout supporting both single images and 2x2 grid sections for versatile image arrangement",
   "registryDependencies": [
@@ -24,5 +23,6 @@
   "meta": {
     "category": "marketing-ui",
     "section": "gallery-component"
-  }
+  },
+  "type": "registry:block"
 }

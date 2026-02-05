@@ -12519,6 +12519,145 @@
       }
     },
     {
+      "name": "dashboard-shell-02",
+      "title": "Dashboard Shell 2",
+      "description": "Modern dashboard layout with collapsible sidebar, inset content area, and sales analytics",
+      "type": "registry:block",
+      "dependencies": [
+        "@tanstack/react-table",
+        "lucide-react"
+      ],
+      "registryDependencies": [
+        "avatar",
+        "breadcrumb",
+        "button",
+        "collapsible",
+        "dropdown-menu",
+        "separator",
+        "sidebar"
+      ],
+      "files": [
+        {
+          "path": "src/app/(blank)/preview/dashboard-and-application/dashboard-shell/dashboard-shell-02/page.tsx",
+          "type": "registry:page",
+          "target": "app/dashboard-shell-02/page.tsx"
+        },
+        {
+          "path": "src/components/shadcn-studio/blocks/chart-sales-metrics.tsx",
+          "type": "registry:component",
+          "target": "components/shadcn-studio/blocks/chart-sales-metrics.tsx"
+        },
+        {
+          "path": "src/components/shadcn-studio/blocks/statistics-card-01.tsx",
+          "type": "registry:component",
+          "target": "components/shadcn-studio/blocks/statistics-card-01.tsx"
+        },
+        {
+          "path": "src/components/shadcn-studio/blocks/datatable-transaction.tsx",
+          "type": "registry:component",
+          "target": "components/shadcn-studio/blocks/datatable-transaction.tsx"
+        }
+      ],
+      "meta": {
+        "category": "dashboard-and-application",
+        "section": "dashboard-shell"
+      }
+    },
+    {
+      "name": "dashboard-shell-03",
+      "title": "Dashboard Shell 3",
+      "description": "Floating sidebar dashboard layout with optimized widget arrangement",
+      "type": "registry:block",
+      "dependencies": [
+        "@tanstack/react-table",
+        "lucide-react"
+      ],
+      "registryDependencies": [
+        "avatar",
+        "breadcrumb",
+        "button",
+        "collapsible",
+        "dropdown-menu",
+        "separator",
+        "sidebar"
+      ],
+      "files": [
+        {
+          "path": "src/app/(blank)/preview/dashboard-and-application/dashboard-shell/dashboard-shell-03/page.tsx",
+          "type": "registry:page",
+          "target": "app/dashboard-shell-03/page.tsx"
+        },
+        {
+          "path": "src/components/shadcn-studio/blocks/chart-sales-metrics.tsx",
+          "type": "registry:component",
+          "target": "components/shadcn-studio/blocks/chart-sales-metrics.tsx"
+        },
+        {
+          "path": "src/components/shadcn-studio/blocks/statistics-card-01.tsx",
+          "type": "registry:component",
+          "target": "components/shadcn-studio/blocks/statistics-card-01.tsx"
+        },
+        {
+          "path": "src/components/shadcn-studio/blocks/datatable-transaction.tsx",
+          "type": "registry:component",
+          "target": "components/shadcn-studio/blocks/datatable-transaction.tsx"
+        },
+        {
+          "path": "src/components/shadcn-studio/blocks/widget-total-earning.tsx",
+          "type": "registry:component",
+          "target": "components/shadcn-studio/blocks/widget-total-earning.tsx"
+        },
+        {
+          "path": "src/components/shadcn-studio/blocks/widget-product-insights.tsx",
+          "type": "registry:component",
+          "target": "components/shadcn-studio/blocks/widget-product-insights.tsx"
+        }
+      ],
+      "meta": {
+        "category": "dashboard-and-application",
+        "section": "dashboard-shell"
+      }
+    },
+    {
+      "name": "dashboard-shell-04",
+      "title": "Dashboard Shell 4",
+      "description": "Comprehensive payment dashboard with advanced charts and data tables",
+      "type": "registry:block",
+      "dependencies": [
+        "recharts",
+        "lucide-react"
+      ],
+      "registryDependencies": [
+        "avatar",
+        "badge",
+        "button",
+        "card",
+        "chart",
+        "dropdown-menu",
+        "input",
+        "separator",
+        "sidebar",
+        "table",
+        "checkbox"
+      ],
+      "files": [
+        {
+          "path": "src/app/(blank)/preview/dashboard-and-application/dashboard-shell/dashboard-shell-04/page.tsx",
+          "type": "registry:page",
+          "target": "app/dashboard-shell-04/page.tsx"
+        },
+        {
+          "path": "src/components/shadcn-studio/blocks/widget-total-earning.tsx",
+          "type": "registry:component",
+          "target": "components/shadcn-studio/blocks/widget-total-earning.tsx"
+        }
+      ],
+      "meta": {
+        "category": "dashboard-and-application",
+        "section": "dashboard-shell"
+      }
+    },
+    {
       "name": "dashboard-dropdown-01",
       "title": "Dashboard Dropdown 1",
       "description": "A language selection dropdown with flag icons and language options for internationalization and localization features.",

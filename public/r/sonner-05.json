@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "sonner-05",
-  "type": "registry:component",
   "title": "Sonner 5",
   "description": "A closable toast notification with user-controlled dismiss functionality",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/sonner/sonner-05.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

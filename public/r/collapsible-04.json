@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "collapsible-04",
-  "type": "registry:component",
   "title": "Collapsible 4",
   "description": "User list with avatars, status indicators and expandable team member details",
   "dependencies": [
@@ -19,5 +18,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/collapsible/collapsible-04.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-35",
-  "type": "registry:component",
   "title": "Input 35",
   "description": "Input field with real-time character counter, guiding users on remaining character allowance.",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-35.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

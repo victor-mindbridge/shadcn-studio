@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "checkbox-10",
-  "type": "registry:component",
   "title": "Checkbox 10",
   "description": "Color-themed checkboxes with destructive, info, and success color variants",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/checkbox/checkbox-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

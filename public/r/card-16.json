@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "card-16",
-  "type": "registry:component",
   "title": "Card 16",
   "description": "Interactive spotlight card with animated glow effect that follows mouse movement",
   "registryDependencies": [
@@ -17,5 +16,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

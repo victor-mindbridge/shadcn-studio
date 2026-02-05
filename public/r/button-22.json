@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-22",
-  "type": "registry:component",
   "title": "Button 22",
   "description": "caution button with a warning icon and soft amber styling to indicate alerts or risks.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-22.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

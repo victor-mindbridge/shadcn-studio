@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "badge-23",
-  "type": "registry:component",
   "title": "Badge 23",
   "description": "Cart notification badge with count display over shopping icon",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/badge/badge-23.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

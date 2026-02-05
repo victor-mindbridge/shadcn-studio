@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dashboard-header-01",
-  "type": "registry:block",
   "title": "Dashboard Header 1",
   "description": "Comprehensive dashboard header with navigation, breadcrumbs, user profile, and language dropdown",
   "dependencies": [
@@ -39,5 +38,6 @@
   "meta": {
     "category": "dashboard-and-application",
     "section": "dashboard-header"
-  }
+  },
+  "type": "registry:block"
 }

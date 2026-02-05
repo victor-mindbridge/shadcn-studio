@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "combobox-08",
-  "type": "registry:component",
   "title": "Combobox 8",
   "description": "User selector combobox with avatars, name and email addresses",
   "dependencies": [
@@ -21,5 +20,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/combobox/combobox-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

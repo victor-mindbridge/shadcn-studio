@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "accordion-10",
-  "type": "registry:component",
   "title": "Accordion 10",
   "description": "Box-style accordion with unified border container around all accordion items.",
   "registryDependencies": [
@@ -14,5 +13,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/accordion/accordion-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

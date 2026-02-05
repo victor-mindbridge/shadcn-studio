@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "checkbox-06",
-  "type": "registry:component",
   "title": "Checkbox 6",
   "description": "Badge-style checkboxes with hidden unchecked state for compact selection",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/checkbox/checkbox-06.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

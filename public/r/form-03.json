@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "form-03",
-  "type": "registry:component",
   "title": "Form 3",
   "description": "Form with switch toggle controls for settings and preferences",
   "dependencies": [
@@ -21,5 +20,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/form/form-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

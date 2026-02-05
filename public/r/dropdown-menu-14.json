@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dropdown-menu-14",
-  "type": "registry:component",
   "title": "Dropdown Menu 14",
   "description": "Radio group selection dropdown for panel position with single choice selection",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/dropdown-menu/dropdown-menu-14.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

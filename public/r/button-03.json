@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-03",
-  "type": "registry:component",
   "title": "Button 3",
   "description": "A rounded button with icon and text content",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

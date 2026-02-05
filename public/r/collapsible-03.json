@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "collapsible-03",
-  "type": "registry:component",
   "title": "Collapsible 3",
   "description": "Task completion list with user avatars and progress percentages",
   "dependencies": [
@@ -19,5 +18,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/collapsible/collapsible-03.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

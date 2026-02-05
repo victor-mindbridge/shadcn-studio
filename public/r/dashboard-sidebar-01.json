@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dashboard-sidebar-01",
-  "type": "registry:block",
   "title": "Dashboard Sidebar 1",
   "description": "Social media analytics dashboard sidebar featuring Content Performance, Audience Insights, Hashtag Performance, Competitor Analysis, Influencer tracking, Campaign Tracking, Sentiment Tracking, Real Time Monitoring, and Schedule Post & Calendar navigation",
   "dependencies": [
@@ -22,5 +21,6 @@
   "meta": {
     "category": "dashboard-and-application",
     "section": "dashboard-sidebar"
-  }
+  },
+  "type": "registry:block"
 }

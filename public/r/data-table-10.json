@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "data-table-10",
-  "type": "registry:component",
   "title": "Data Table 10",
   "description": "Data table with pagination, rows selection, and sorting system",
   "dependencies": [
@@ -25,5 +24,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/data-table/data-table-10.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

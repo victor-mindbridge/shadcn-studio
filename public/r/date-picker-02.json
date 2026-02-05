@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "date-picker-02",
-  "type": "registry:component",
   "title": "Date Picker 2",
   "description": "Date range picker with popover calendar for selecting start and end dates",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/date-picker/date-picker-02.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

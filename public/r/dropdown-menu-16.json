@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "dropdown-menu-16",
-  "type": "registry:component",
   "title": "Dropdown Menu 16",
   "description": "Animated dropdown menu with slide up animation effect",
   "registryDependencies": [
@@ -19,5 +18,6 @@
   ],
   "meta": {
     "isAnimated": true
-  }
+  },
+  "type": "registry:component"
 }

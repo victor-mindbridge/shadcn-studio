@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "social-proof-01",
-  "type": "registry:block",
   "title": "Social Proof 1",
   "description": "Feature checklist layout with split design showcasing product benefits alongside a complementary image. Perfect for highlighting key features with checkmark icons and descriptive content.",
   "dependencies": [
@@ -24,5 +23,6 @@
   "meta": {
     "category": "marketing-ui",
     "section": "social-proof"
-  }
+  },
+  "type": "registry:block"
 }

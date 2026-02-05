@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "input-23",
-  "type": "registry:component",
   "title": "Input 23",
   "description": "An email input field with an overlapping label positioned over the border",
   "registryDependencies": [
@@ -15,5 +14,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/input/input-23.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

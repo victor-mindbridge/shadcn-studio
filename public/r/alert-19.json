@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-19",
-  "type": "registry:component",
   "title": "Alert 19",
   "description": "Outline success alert with green border and text for success messages.",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-19.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "logo-cloud-01",
-  "type": "registry:block",
   "title": "Logo Cloud 1",
   "description": "Muted background logo cloud with centered card container, underlined text highlight, and flexbox logo grid arrangement with responsive gap spacing and centered alignment",
   "registryDependencies": [
@@ -24,5 +23,6 @@
   "meta": {
     "category": "marketing-ui",
     "section": "logo-cloud"
-  }
+  },
+  "type": "registry:block"
 }

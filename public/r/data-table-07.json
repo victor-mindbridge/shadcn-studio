@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "data-table-07",
-  "type": "registry:component",
   "title": "Data Table 7",
   "description": "Data table with pinnable columns sticking to the left side or right side for easy access",
   "dependencies": [
@@ -20,5 +19,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/data-table/data-table-07.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

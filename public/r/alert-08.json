@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "alert-08",
-  "type": "registry:component",
   "title": "Alert 8",
   "description": "Multi-action alert with primary background, multiple buttons, and dismissible interface.",
   "dependencies": [
@@ -18,5 +17,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/alert/alert-08.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }

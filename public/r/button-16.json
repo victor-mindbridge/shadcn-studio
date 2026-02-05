@@ -1,7 +1,6 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry-item.json",
   "name": "button-16",
-  "type": "registry:component",
   "title": "Button 16",
   "description": "Ghost button with animated arrow on hover",
   "dependencies": [
@@ -17,5 +16,6 @@
       "type": "registry:component",
       "target": "components/shadcn-studio/button/button-16.tsx"
     }
-  ]
+  ],
+  "type": "registry:component"
 }
