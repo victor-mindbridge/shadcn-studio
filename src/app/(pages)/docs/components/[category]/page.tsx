@@ -41,10 +41,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   return {
     title: `Shadcn ${category.name}`,
-    description: `Discover the ${components.length}+ Shadcn ${category.name} Component variants${category.hasAnimation ? ` including animated ${name}` : ''}. Enhance your UI using customizable React ${name} with TailwindCSS.`,
+    description: `Discover the ${components.length}+ Shadcn ${category.name} Component variants${category.hasAnimation ? ` including animated ${category.name}` : ''}. Enhance your UI using customizable React ${category.name} with TailwindCSS.`,
     openGraph: {
       title: `Shadcn ${category.name}`,
-      description: `Discover the ${components.length}+ Shadcn ${category.name} Component variants${category.hasAnimation ? ` including animated ${name}` : ''}. Enhance your UI using customizable React ${name} with TailwindCSS.`,
+      description: `Discover the ${components.length}+ Shadcn ${category.name} Component variants${category.hasAnimation ? ` including animated ${category.name}` : ''}. Enhance your UI using customizable React ${category.name} with TailwindCSS.`,
       url: `${process.env.NEXT_PUBLIC_APP_URL}/docs/components/${category.slug}`,
       images: [
         {
@@ -59,7 +59,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     twitter: {
       card: 'summary_large_image',
       title: `Shadcn ${category.name}`,
-      description: `Discover the ${components.length}+ Shadcn ${category.name} Component variants${category.hasAnimation ? ` including animated ${name}` : ''}. Enhance your UI using customizable React ${name} with TailwindCSS.`
+      description: `Discover the ${components.length}+ Shadcn ${category.name} Component variants${category.hasAnimation ? ` including animated ${category.name}` : ''}. Enhance your UI using customizable React ${category.name} with TailwindCSS.`
     },
     alternates: {
       canonical: `${process.env.NEXT_PUBLIC_APP_URL}/docs/components/${category.slug}`
